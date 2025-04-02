@@ -1,0 +1,1819 @@
+Concall: concall_1
+Speaker: Moderator 
+Text: Ladies and gentlemen good day and welcome to RKEC Projects Limited Q4FY21 earnings conference call hosted by Hem Securities Limited. As a reminder all participants will be in the listen only mode and there will be an opportunity for you to ask questions after the presentation concludes. Should you need assistance during the conference call, please signal an operator by pressing * and then 0 on your touch-screen phones. Please note that this conference is being recorded. I would now like to handover the floor to Ms Astha Jain from Hem Securities Limited. Thank you and over to you ma’am. 
+Temporal Classification: present event (Confidence: 0.691)
+
+Speaker: Ms. Astha Jain 
+Text: Thank you Moumita. Good afternoon ladies and gentlemen. Thank you for joining the RKEC Projects Limited Q4 and FY21 earnings conference call. Today we have with us Mr. G. Radhakrishna, Chairman and Managing Director of RKEC Project along with Mr. R. Jayachandran, CFO of the company to discuss the operational and financial performance and to answer all your queries. So without any further ado, I will hand over the call to Mr. Jayachandran for his initial comments on the financial performance of the company; over to you sir. 
+Temporal Classification: present event (Confidence: 0.593)
+
+Speaker: R. Jayachandran 
+Text: Good afternoon and a hearty welcome to all the participants. I am Jaya Chandran here. I joined as CFO last year…in the middle of the current financial year. My job is primarily to give an introduction about the company. The company as of this quarter has a standing of almost 35 years. The company is founded by Sri G. Radhakrishna, present Managing Director and it started in a small way. We have come to this level and become a company on 1st April 2005. In 2017 we have got listed company in emerging platform of NSE. Now in the last year December we have migrated to the main board. The company has started its business with various construction activities, small to big and finally now we have been now concentrating on our core competent areas of marine structures and bridges where we have already made our footprint. Even though we are a midcap we have got our place in this segment where we are. We have been ranked as one of the top 10 companies for designing and executing marine works in the country. The company has been executing on-shore and infrastructure project in (not clear). We are also a super special class registered contractors with the Ministry of Defense which gives an unlimited tendering capability of ours. We have a good reputation as far as quality of delivery and timely delivery and the sectors in which we work include ports, defense, railways, private sectors and big corporates, steel industry, SR, any number of such companies we are associated. We could achieve a good track record of cumulative annual growth rate for the last five years consistently except for the last year, the details of which will be explained by the CMD 
+Temporal Classification: past event (Confidence: 0.519)
+
+Speaker: G. Radhakrishna 
+Text: Thank you Ms. Astha and Mr. Jayachandran. Good afternoon ladies and gentlemen. I am Radhakrishna CMD of RKEC Projects Limited. It is my pleasure to welcome you all to our investor’s conference to discuss the financial performance of RKEC Projects Limited for the financial year 20-21 and also share with you our way forward. RKEC Private Limited is one of the leading infra companies which has 35 years of experience in the business of marine work and bridges. Company has completed 95 projects so far worth over 1830 crores and currently working on 14 projects amounting to Rs. 600 crores. During the financial year 21 the company could complete four projects. The notable ones are electrification work of Purvanchal Vidyut Vitraan Nigam Limited and ports like JNPT. Let me come to the order book first before getting into the financials. The company carries an order value of 883 crores for execution as of 1/4/2021 and secured an order of Rs. 134 crores after the financial year brought in about Rs. 1017 crores of orders on hand considering an average turnover of Rs.300 crores for financial year 20-21, 22 and Rs. 400 crores for financial 20-22 and 23. The company is having a sufficient order book on hand. We have also submitted big (not clear) project (not clear) Rs.1000 crores approximately and is bidding for another Rs. 600 crores by 31/12/2021. Considering a minimum surface of one third, we are expected to have a very comfortable RO position, of three years’ turnover being available at any point of time. When I look at the turnover, it is seen that the turnover of the company has suffered a drop of Rs. 95 crores that is 33% as compared to the turnover of the previous year. Drop in turnover was due to multiple challenges faced by the company. The first one was due to the outbreak of the pandemic right from March 2020 and impacted throughout the financial year. The major projects which have suffered set backs are port, JNPT, Adani project, Haldia Project and sea project of the Indian Navy Visakhapatnam. The second challenge was on account of the slowdown in the construction activities in the Farakka Project. The slowdown of Farakka project was mainly due to an unfortunate accident on 16/2/2020 and the subsequent investigation studies and review of the design and ranks by multiple agencies. We are happy to inform you that our clients are being approved after the completion of all studies. The project will be back on track in another three months time after the monsoon, 2021. The third reason was that the company was suffering from the working capital constraint for the last two years on account of the receivable of Rs.65 crores from SSPUVDNL. I am happy to share with you that the contract has been revalidated, work has been completed and a debt of Rs.52 crores against Rs. 80 crores have already been collected which has provided a slight relief to the working capital position of the company. We are expecting the balance payment of Rs. 28 crores during the second quarter of the financial year 2021. We are probably one of the few contractors in India to have recovered money without penalty which shows the strength of the company and its integrity level. I congratulate all my staff who have struggled to receive this and also shareholders for having confidence and stood by us for over two years. While we could mitigate the three challenges, we are still left with one challenge on the working capital credit limits from Bank of Baroda. The sanction of credit limit of Bank of Baroda has also been received during June 2021. Sanction by the Bank is not very comfortable for the company to receive the increase in turnover. Infact the major set and are confident of mitigating it in the next two months’ time. We bring to your kind notice that we have not removed any of our staff during the pandemic and full salaries were paid and the directors have sacrificed their salaries to pay them as they are the pillars and strength of the company. The profitability of the company reflected EBITDA of Rs. 82.94 crores during the financial year 2021 as against the previous years’ performance of Rs. 69.61 crores. Similarly, the profit after tax for the year 2021 is Rs.12.76 crores as against Rs. 27.86 crores of 19-20. I would like to state that the drop in profit is directly the result of the drop in turnover as expenditure level remained almost the same. The company has adopted IND AS requirement as NSE main board listed companies thereby improving the standard. We have appointed a new CFO Mr. Jayachandran who is highly qualified and experienced. He is a qualified finance professional who has got 35 years of industry exposure. He possesses multi various and functional experience in various industries such as engineering, infrastructure, manufacturing etc. He has been (not sure) CFO for the last 25 years into the organization. His services are expected to benefit the company substantially. Mr. Satyanarayana has opted to retire as he has attained the age of 65 years. We are confident of the way forward by regaining the growth in turnover to Rs. 300 crores during the financial year 21-22; by adding on jobs of oil & gas, specialized billing with due diligence and thereby to add value to the investors in the coming years. Our strategy and philosophy of work can be considered to optimized operational (not clear) by enhancing the project execution capability and efficient project management to capture the industry growth potential, to retain and attract talent, to go for (not sure) billing by striking a balance between the risk profile of owning versus hiring. Our resources and capabilities do consists of our track record of completion of projects, long experience as a promoter in the construction sector, dedicated, robust and successful team, own fleet of construction equipment, long-term relationship with client, high quality, cost-effective project delivery capability, timely completion of projects, reasonable asset base for the size of the company. Coming to the short-term (not clear) I should say that despite the pandemic, stringent credit sanctioning norms insisted in banks and increase in price of steel are the major ones. We are confident of mitigating all the above during the financial year 21-22. The floor is now open for questions and answer session. You may now ask questions one by one. Kindly tell us your name and the organization you represent. Question and Answer Session 
+Temporal Classification: present event (Confidence: 0.468)
+
+Speaker: Moderator 
+Text: Thank you, sir. Ladies and gentlemen, we will now begin the question and answer session. If you have a question, please press * and 1 on your telephone keypad and wait for your turn to ask the question. If you would like to withdraw your request, you may do so by pressing * and 1 again. Ladies and gentlemen we will wait for a moment while the question queue assembles. The first question comes from Mr. Dixit Doshi from Whitestone Financial Advisors Pvt. Ltd. Please go ahead sir. 
+Temporal Classification: present event (Confidence: 0.524)
+
+Speaker: G. Radhakrishna 
+Text: Yes sir. 
+Temporal Classification: present event (Confidence: 0.474)
+
+Speaker: Dixit Doshi 
+Text: Just a clarification, you mentioned that as on 31st March the order book was 883 crores and we received a fresh order of 134 crores after March. 
+Temporal Classification: past event (Confidence: 0.645)
+
+Speaker: G. Radhakrishna 
+Text: Correct. 
+Temporal Classification: present event (Confidence: 0.487)
+
+Speaker: Dixit Doshi 
+Text: Okay. Now, can you mention the top three, four projects among this which will be the high-value project? 
+Temporal Classification: future event (Confidence: 0.572)
+
+Speaker: R. Jayachandran 
+Text: Shall I answer? 
+Temporal Classification: present event (Confidence: 0.473)
+
+Speaker: G. Radhakrishna 
+Text: Yeah. 
+Temporal Classification: past event (Confidence: 0.47)
+
+Speaker: R. Jayachandran 
+Text: It is correct that we have got an unexecuted order value of 883 crores as on 31/3/2021 and we have also secured an order of 134 crores after 1st April. Totally it is around 1000 crores of work order on hand. The major projects are Farakka project where unexecuted order value is around 288 crores, the second one is a project of jetty construction for Indian Navy in Visakhapatnam which is approximately 140 crores. The third one is…there are two projects in Calcutta Fortress that is Haldia Dock Complex. Together it is around 200 crores. The next one is the order which we recently got that is a construction of a fisheries harbor in Kakinada in a place called Uppada. The project is funded by NABARD and we have a back to back contract for the marine portion which is 134 crores. We do have few other projects already ongoing, many of them are in advanced stages of completion. One another project is in the west coast of India in Karnataka; that is Honnavar where we have got an unexecuted order value of about 75 crores. So this constitutes almost 1000 crores of the order book. Almost all the projects are already mobilized and work is up and running. 
+Temporal Classification: present event (Confidence: 0.439)
+
+Speaker: Dixit Doshi 
+Text: Okay so except for I guess, there was some issue at Farakka….other projects are running on right? 
+Temporal Classification: past event (Confidence: 0.495)
+
+Speaker: R. Jayachandran 
+Text: I would like to clarify that there was the problem at Farakka but at present, we are already out of the problem, we have sensed that. Our designs and everything has been checked and our designs as CMD has made in his speech, the designs are already approved and the drawings are getting approved. In another month or one and a half month’s time we will be getting all the drawings approved. With revised drawings are primarily providing some more add ons and a few measures as added precaution and nothing else. The work will start in full swing, but due to the climatic conditions and floor conditions, maybe after the monsoons that is September, October 2021 only we can see that the main work can go in full swing. 
+Temporal Classification: present event (Confidence: 0.398)
+
+Speaker: Dixit Doshi 
+Text: Okay. Sir my next question is regarding our finances. You mentioned that there was some stress on the working capital. So what is our current bank (not clear) in terms of fund base and non-fund base. We already have pretty much a 1000-crore order. So how much more order we can bid? How much more bank guarantees we have? a cash credit limit of 37.5 crores. We are working on….as far as the non-fund base limit is concerned, we are very much comfortable. As you may be knowing that after the outbreak of the pandemic, the government has given some relaxations as far as bank guarantees are concerned. Performance bank guarantees and retention bank guarantees have been relaxed to some 10% to 3%; so we are very much comfortable as far as the non-fund basis limit is concerned. However, due to the delay or due to the slowdown in the last year, we may need to pump in a bit more money as far as the working capital is concerned. Presently we have only 37.5. Ideally we should have around 60, 65 crores of working capital….65 to 70 crores we may be requiring and we are sourcing it. We are working on various fronts only and we will be able to do it. This is required because we are planning to bring the turnover back to 300 plus in the current year. 
+Temporal Classification: past event (Confidence: 0.431)
+
+Speaker: Dixit Doshi 
+Text: With this 210 crores, limit and 37 crores CC limit, how much more order you can bid for maximum? 
+Temporal Classification: present event (Confidence: 0.891)
+
+Speaker: R. Jayachandran 
+Text: As far as today we have about 14 projects up and running of which in the current financial year we will be completing and getting out around 8 to 9 projects because almost all of them are in advanced stages of completion; almost completed or substantial completion. By the year end if there is no further orders coming to us, we will be left with only five orders. So essentially we have the resources where we can definitely open up three to four major projects in the size of 200 crores; we can at least open three to four projects and we have also bid for two projects and we are confident of at least getting one out of it. So one or two projects more we will be able to get in the current financial year. Our strategy is that to always keep the order book on hand almost free of turnover. The reason is that the average delivery time is also 2-1/2 to 3 years’ time. So we should be in a position to get once the…after finishing 1000 crores, third is what is going to be completed during the current financial year may be about 400, 500 600 crores may go out of the books, so additional 400, 500, or 600 crores will come in. So definitely we can accommodate another 600 to 700 crores of order even with the existing scale of things. 
+Temporal Classification: present event (Confidence: 0.603)
+
+Speaker: Dixit Doshi 
+Text: Okay. Coming to our receivables, you know it has gone up sharply; almost 143 crores. Is there any more than six months or more than one year old receivables and if you can mention how much it is? 
+Temporal Classification: past event (Confidence: 0.788)
+
+Speaker: R. Jayachandran 
+Text: I could not get you, the voice is not clear…143 you are talking of what figure? 
+Temporal Classification: past event (Confidence: 0.467)
+
+Speaker: Dixit Doshi 
+Text: I was saying that our receivables are almost 143 crores as on March end. So is there any slow moving like more than six months or more than one year old receivable and if you can mention the amount…how much it is? 
+Temporal Classification: past event (Confidence: 0.757)
+
+Speaker: R. Jayachandran 
+Text: Actually the receivables are around 168 crores as per the audited accounts which consists of retention amount which is payable as per the terms of contract after the (not clear) is over. We don’t have any receivable which is stressed as of today. It was not the case in the last two years. We had one major stressed asset of around 65 crores in the books from a client called Purvanchal Vidyut Vitraan Nigam Limited which is what CMD was expressing in his speech that we are probably the So I could say that there is no receivable in the books as of today which is stressed, not even stressed which is not (not clear). To substantiate my statement I should say that we had renewed all the sundry debtors on 31st of March, all the receivables and we have found that two of the receivables which are almost 5, 6 years old, we in fact have written off these two debts. One from a company called SEW which has already gone to NCLT and the second one is also gone to NCLT called IVCRL. About 3.4 crores of debts which we ourselves assessed that yes there could be a stress and there is a doubtfulness on the case which we have analyzed and we have written off. So at at the end of the day today we have not even a stressed asset in our books as far as receivables are concerned. 
+Temporal Classification: past event (Confidence: 0.47)
+
+Speaker: Dixit Doshi 
+Text: I understand that except for Purvanchal there is no stress on the receivables. But how much of this would be more than six months old? 
+Temporal Classification: past event (Confidence: 0.827)
+
+Speaker: R. Jayachandran 
+Text: As of now, there is hardly about 20 to 25 crores more than six months old. That also more than six months old because it is receivable as per the payment term in the contract. For example, retention money held by the client will be on a stage payment. For benchmark completion only they will release the money, that is the reason why. Number of days wise it is more than six months otherwise it is payable as per the contract once we achieve that benchmark completion. 
+Temporal Classification: present event (Confidence: 0.502)
+
+Speaker: Dixit Doshi 
+Text: Okay, one last question from my side. This year we did about 15%, 16% EBITDA margin and we are planning to do a top line of 300 crores in FY22. What kind of margins…..I mean we can sustain this 15%, 16% margin given the kind of commodity price hike…? 
+Temporal Classification: past event (Confidence: 0.496)
+
+Speaker: R. Jayachandran 
+Text: I think this is a very good question. I think we should be able to… 
+Temporal Classification: present event (Confidence: 0.39)
+
+Speaker: G. Radhakrishna 
+Text: Mr. Dixit I would like to answer your question…two questions. First question was you were saying 37.5 crores how much order book can you book? This was your question earlier I think. We will be completing some of the projects; whatever is there as explained by him about 8 to 9 projects we will be completing and in addition we can definitely take up around 600 to 1000 crores in this financial year, additional works of around 600 to 1000 crores in this financial year provided we enhance our credit limit to another s30 crores which we are doing and probably within another two months we should be able to do that. And the question asked, achieving the PBT and all that we are in a very positive mode to move to that extent but being in the pandemic situation and all we may not be able to commit to that level what would be the exact figures and all but we must be earning definitely better than the present year position sir. 
+Temporal Classification: present event (Confidence: 0.408)
+
+Speaker: Dixit Doshi 
+Text: So 15%, 16% EBITDA margin you feel is a sustainable margin? 
+Temporal Classification: present event (Confidence: 0.471)
+
+Speaker: R. Jayachandran 
+Text: Yeah, it is not impossible, it can be achieved. We are not saying that it cannot be achieved but we do not know what kind of….. As far as receivables, there is no problems there. 
+Temporal Classification: present event (Confidence: 0.407)
+
+Speaker: G. Radhakrishna 
+Text: Thank you sir, I think we answered all your questions. 
+Temporal Classification: past event (Confidence: 0.491)
+
+Speaker: Moderator 
+Text: Thank you sir. The next question comes from Mr. Jitu Punjabi from EM Capital Investors. Please go ahead sir. 
+Temporal Classification: present event (Confidence: 0.494)
+
+Speaker: Jitu Punjabi 
+Text: Yes good afternoon Mr. Radhakrishna how are you? 
+Temporal Classification: present event (Confidence: 0.446)
+
+Speaker: G. Radhakrishna 
+Text: Good afternoon, thanks sir, how are you. 
+Temporal Classification: present event (Confidence: 0.577)
+
+Speaker: Jitu Punjabi 
+Text: I am very well. Sir I wanted to just ask a couple of things. One the point that there is a constraint for working capital…..is there a path to resolution there? In the sense the point you made in the last question was that we will do X number of projects and then we will replace it with new projects and we are doing and we should reach a reasonable turnover over the next 12 months. But if the working capital is constrained, that may not be doable. So the question is that, is there a path to resolution on the working capital constraint side? 
+Temporal Classification: present event (Confidence: 0.513)
+
+Speaker: G. Radhakrishna 
+Text: Resolution has been passed in the last board meeting sir and we have already approached….we are trying for multiple banking sir and we have applied for annuity to Bank of Baroda which we will be getting very shortly. Two or three banks are ready to process and issue the working capital. 
+Temporal Classification: present event (Confidence: 0.464)
+
+Speaker: Jitu Punjabi 
+Text: Okay, good….I mean in the next few months that should be resolved, is the point you are making. 
+Temporal Classification: future event (Confidence: 0.746)
+
+Speaker: G. Radhakrishna 
+Text: I think in the next two months it will be resolved, that’s what we are hoping now. Anyway the next two months are also the monsoon period and we may not be able to progress much on the work, by that time we will try to get the capital and in the next six months we will try and do a good amount of job in the next six months. In the third and fourth quarter we will be doing a good amount of job. 
+Temporal Classification: future event (Confidence: 0.439)
+
+Speaker: Jitu Punjabi 
+Text: Okay so we should be able to catch up on the business side? 
+Temporal Classification: present event (Confidence: 0.418)
+
+Speaker: G. Radhakrishna 
+Text: Yes sir. We are very confident now when compared to the last year. You must be knowing of our stress on Purvanchal….I was giving you all the information whatever is there. Now we are very confident of getting out of that. 
+Temporal Classification: past event (Confidence: 0.778)
+
+Speaker: Jitu Punjabi 
+Text: Tell me is there any further receivable beside the 15% holding money is there? Any outstanding from Purvanchal corporation today? 
+Temporal Classification: present event (Confidence: 0.661)
+
+Speaker: G. Radhakrishna 
+Text: Yeah we have received around 52 crores out of 80 crores sir and 28 crores is still the balance. 
+Temporal Classification: present event (Confidence: 0.725)
+
+Speaker: Jitu Punjabi 
+Text: And what is the time line of getting that now? 
+Temporal Classification: past event (Confidence: 0.389)
+
+Speaker: G. Radhakrishna 
+Text: Maybe in this quarter we should be able to get it sir. 
+Temporal Classification: future event (Confidence: 0.509)
+
+Speaker: G. Radhakrishna 
+Text: Not full money, we are supposed to get around 12 crores, last month which we didn’t get. May be this week or next week we should be getting it and the balance they promised by this month end or maybe by this quarter end we should be able to get the balance sir. 
+Temporal Classification: past event (Confidence: 0.537)
+
+Speaker: Jitu Punjabi 
+Text: Okay, wonderful. Then my other question is that, you have been through a very difficult two years. You are just coming out of it. As you come out of it, what do you think the next two, three, four years can look like? Do you think you can scale up significantly to 4000 crores turnover? I don’t know what….is a significant scale up from here possible as you see the next few years ahead? 
+Temporal Classification: past event (Confidence: 0.626)
+
+Speaker: G. Radhakrishna 
+Text: Sir this is a very good question sir. I think I have been answering this right from my investor’s meeting in Bombay somewhere around 2017. We have been saying that at the time when we go to the public our turnover was around 100 to 150 crores and I said we will go up to 300 to 400, stabilize this for about three years and then move on for further. The main….basic reason why we want to go like that is, I want to develop my own strength of staff with me rather than scaling up so much projects higher, getting people from outside, we do not understand what is on their mind; by the time we understand their mind, the project is over and we may be either this side or that side. So I want to have a very stable and strong foundation by making (not sure) at the range of 300 to 400 crores, stabilize for three years, develop the fresh talent from the people we have taken up and then give them more projects in the future coming over here. So maybe around 300 to 500 we will stabilize in the three years and then afterwards we will scale upto 1000 crores. This is our plan actually. 
+Temporal Classification: past event (Confidence: 0.658)
+
+Speaker: Jitu Punjabi 
+Text: Okay wonderful. In the current….lesser than 18 months, I am assuming capital was a constraint and that is getting solved for in terms of debt lines of credit; the receivables are an issue and that is getting resolved. Do you see any other….and you seem to be sitting on a pretty good order book. Is there any other constraint that you envisage over the next 18 months to achieve the growth objectives? 
+Temporal Classification: present event (Confidence: 0.634)
+
+Speaker: G. Radhakrishna 
+Text: I don’t feel there is any constraint sir. The only constraint that we are facing as of now is on the steel…..there is no material available in the market because of this pandemic, increase in diesel prices or non-availability of raw materials in the steel industry we are facing a little bit of constraint; I think probably this should be resolved very shortly sir. 
+Temporal Classification: present event (Confidence: 0.856)
+
+Speaker: Jitu Punjabi 
+Text: Okay wonderful sir. Our good wishes are with you. Thank you. 
+Temporal Classification: past event (Confidence: 0.416)
+
+Speaker: G. Radhakrishna 
+Text: Thank you very much sir. 
+Temporal Classification: present event (Confidence: 0.548)
+
+Speaker: Moderator 
+Text: Thank you sir. The next question comes from Mr. Nikhil Shah from Ubhed Trading LLP. Please go ahead sir. 
+Temporal Classification: present event (Confidence: 0.518)
+
+Speaker: Nikhil Shah 
+Text: Thank you very much. Am I audible? 
+Temporal Classification: present event (Confidence: 0.514)
+
+Speaker: G. Radhakrishna 
+Text: Yes. mentioned as 42 crores; whereas in the annual report it is mentioned as 28 because I think there is a one-time GST cost of 13.3 crores which was mentioned as exceptional item; so is this just a kind of….how should I read this 42 crores of FY20 number? 
+Temporal Classification: past event (Confidence: 0.376)
+
+Speaker: R. Jayachandran 
+Text: I understand that your question is that there is an abnormal expenditure on account of GST in the year 1920, yes it is a fact that we had an abnormal expenditure of GST in the year 1920 to the extent of 13.3. My only answer in that is, that every year there is something or the other abnormalities or uncertainties do capture. So probably I think once you compare 28 should be as a (not sure) when we compare one to one even though it is a bit abnormal. Current year we have got some increase in price of steel which is not fully captured in the escalation formulae in the contract. So something or the other keeps on happening. Only thing is 1920 it was slightly on the higher side, that’s it. 
+Temporal Classification: past event (Confidence: 0.564)
+
+Speaker: Nikhil Shah 
+Text: No, no my question is not that sir. My question is there is the annual report figure and the table of results which was released yesterday, the profit after tax for FY20 is different. My question is that. 
+Temporal Classification: past event (Confidence: 0.479)
+
+Speaker: G. Radhakrishna 
+Text: It cannot vary. 
+Temporal Classification: present event (Confidence: 0.637)
+
+Speaker: Nikhil Shah 
+Text: Yeah you can cross-check for that. I will wait for that. My second question is, if you look at the operating margin and I am defining operating margin as sales minus cost of materials, construction expenses and changes in inventory. If I take this as your operating margin, it has been shrinking over the last four years and of course may be FY21 is not a comparison so to speak; but the trend has been that it is shrinking. So how do we see this going forward? Is it that a function of that as the turnover increases the margin will shrink? Is that the perspective here? 
+Temporal Classification: future event (Confidence: 0.396)
+
+Speaker: R. Jayachandran 
+Text: Yeah, if you look at….if it is a mix of all in the sense that different contracts we operate at different margin. The overall margin has not shrunken. Overall margin remained almost the same. So the individual projects, dominant projects, suppose if I do X projects which is having 15% or 20 % margin, and that project was the dominant turnover in that particular year that precisely is at a better positioning and it consumes maybe more material; some projects consume more labor. So it is not a very….unlike a manufacturing unit, it is individual contract conditions and the pricing, bidding…all those things matter actually. But overall I am clear that there is no shrinking in the profitability except for 20-21. 
+Temporal Classification: present event (Confidence: 0.418)
+
+Speaker: G. Radhakrishna 
+Text: In short if I were to answer your question it is yes, sir. As we keep on increasing our turnover there is a possibility of reduction of the percentage of the profit. 
+Temporal Classification: present event (Confidence: 0.451)
+
+Speaker: Nikhil Shah 
+Text: Okay, but what you said is in the one to two years, you don’t expect the EBITDA margins to drop substantially right? 
+Temporal Classification: future event (Confidence: 0.792)
+
+Speaker: G. Radhakrishna 
+Text: Yes, it will not drop sir. We are telling you right from the beginning we are very strong in making our own capex and making our own machinery which sells more than 30% to 40% of cost on our capex. That is the reason we have good margins and there is not much problem in this. We may be facing a little bit of but external factors like pandemic and all….otherwise, we should be able to do good job in the next financial year, maybe 21-22. 
+Temporal Classification: present event (Confidence: 0.479)
+
+Speaker: Nikhil Shah 
+Text: Okay. The last question, the net fixed assets have been flat for the last two years of 55 crores, so do we expect this to increase in line with the increase in the business turnover also or is this good enough for the next couple of years? 
+Temporal Classification: future event (Confidence: 0.362)
+
+Speaker: R. Jayachandran 
+Text: You are looking at the fixed assets and the capital expenditure? 
+Temporal Classification: present event (Confidence: 0.471)
+
+Speaker: Nikhil Shah 
+Text: That’s right. 
+Temporal Classification: present event (Confidence: 0.431)
+
+Speaker: R. Jayachandran 
+Text: Yeah, definitely the assets in the present level of operations we are comfortable. But definitely depending on the new jobs which we are going to get, we will be definitely going for some more capital expenditure may be to the tune of 50 crores roughly. Around 50 crores we have kept in mind as the capex which will be required. The funding will not be an issue because we are practically debt free. 
+Temporal Classification: present event (Confidence: 0.736)
+
+Speaker: Nikhil Shah 
+Text: Okay and the last one is, CMD mentioned about….one thing to stabilize between 300 to 500 crores and then kind of making the next leap. So how many years do we see ourselves being in this 300 to 500 before we kind of move to the next band? 
+Temporal Classification: future event (Confidence: 0.628)
+
+Speaker: R. Jayachandran 
+Text: I think CMD has given an indication…line of thinking to be stabilizing maybe 300 to 500 for three years, the first year is running, so maybe another two years. 
+Temporal Classification: future event (Confidence: 0.447)
+
+Speaker: Nikhil Shah 
+Text: Okay thank you. If there are any follow up questions, I will come back in queue. 
+Temporal Classification: past event (Confidence: 0.387)
+
+Speaker: R. Jayachandran 
+Text: Please do. But I think there is no difference in the figures which I clarified to you. If you can send us a mail, clearly specifying which document to which document, we will answer you on mail itself. 
+Temporal Classification: present event (Confidence: 0.494)
+
+Speaker: Nikhil Shah 
+Text: Okay I will send you the document also with the reference. Thank you. 
+Temporal Classification: present event (Confidence: 0.398)
+
+Speaker: R. Jayachandran 
+Text: That’s fine, thank you. 
+Temporal Classification: present event (Confidence: 0.468)
+
+Speaker: Moderator 
+Text: Thank you sir. The next question comes from Mr. Dixit Doshi from Whitestone Financial Advisors Pvt. Ltd. Please go ahead sir. 
+Temporal Classification: present event (Confidence: 0.469)
+
+Speaker: Dixit Doshi 
+Text: Thanks for the opportunity again, just a couple of questions. One, how much is the order bid pipeline? 
+Temporal Classification: present event (Confidence: 0.533)
+
+Speaker: R. Jayachandran 
+Text: I think we have bid for two projects, the estimated cost put to bid for these projects to government are around 1000 crores. The technical bids are under evaluation and we expect in a months’ time we will know where we stand. In one These are the two bids we have already submitted and as CMD has mentioned in his speech, we are also working on bidding for some more projects of around 600 crores. 
+Temporal Classification: future event (Confidence: 0.409)
+
+Speaker: Dixit Doshi 
+Text: Okay. Just a last question, whatever order we had currently under execution almost 1000 crores, are these projects on a fixed price basis? I mean let’s say, steel, cement and all these prices went up even further, can we pass on to the customer or it’s a fixed price project? 
+Temporal Classification: present event (Confidence: 0.793)
+
+Speaker: R. Jayachandran 
+Text: Almost all the contracts are either on EPC or BOT basis and on all the contracts there is a provision for escalation. How far the escalation will take care of these abnormal market situation and how far these abnormal market situation prevails is again a guess of everybody. But we feel that this will be a short-term phenomena and will not be persisting for a long time. Hopefully, I think we will be having a slight impact on this, but we have also represented to the clients that there is an abnormal increase so we may have to be compensated suitably. It is only a petition so let us see if it is not persisting for a long time, probably we may not be much affected. 
+Temporal Classification: future event (Confidence: 0.502)
+
+Speaker: Dixit Doshi 
+Text: Okay sir, that’s it from my side, thanks. 
+Temporal Classification: past event (Confidence: 0.48)
+
+Speaker: Moderator 
+Text: Thank you sir. Ladies and gentlemen if you have any questions please press * and 1 on your telephone keypad. The next question comes from Mr. Munish Kumar an individual investor. Please go ahead sir. 
+Temporal Classification: present event (Confidence: 0.423)
+
+Speaker: Munish Kumar 
+Text: Good afternoon Mr. Radhakrishna. I was hearing you. My compliments to you on ensuring that all your employees were paid their salaries during the pandemic, signs of a really good company; thank you. My question is….a couple of questions. What was the impact of the second wave on your quarter one performance? Also I am very curious to know is there an impact of Farakka incident on the future orders from NHAI? Over to you sir. 
+Temporal Classification: past event (Confidence: 0.612)
+
+Speaker: G. Radhakrishna 
+Text: Yes impact of the second wave is a little bit higher sir and we are sorry to inform you that we have lost 5 to 6 of our employees and one or two sub- contractors also and we are very pained by that and most of our people are demoralized by the pandemic situation. But the way we have looked after all the staff and all the staff have been covered by insurance even if these people got affected, they have got an extra benefit of Rs.10,00,000 as insurance benefit for them in addition to the PF of Rs.7,00,000 or something. So all people are taken care of and I am sure my strength is our staff which I looked after well and we will be able to cover up whatever backlog we are having in the second wave of pandemic….we should be able to cover it up in the future. There is no problem from our side. 
+Temporal Classification: present event (Confidence: 0.398)
+
+Speaker: Munish Kumar 
+Text: Okay sir and what is the impact of this Farakka incident on any future orders from NHAI? 
+Temporal Classification: future event (Confidence: 0.38)
+
+Speaker: R. Jayachandran 
+Text: As far as Farakka incident is concerned, we had already clarified and CMD also made in his speech that we are out of the issues as such as far as the job of Farakka is concerned. But still we still carry…we are in the holiday list of the NHAI for a period of 3 years, that means upto February 2023. But we are confident that once we start the work in full swing we will be getting out of the holiday list for sure. we are not affected because we do have order book on hand upto 2023 sufficiently even as of now even without even depending on NHAI…further jobs at NHAI. But our aim is to get out of the holiday list by this year end. 
+Temporal Classification: past event (Confidence: 0.663)
+
+Speaker: Munish Kumar 
+Text: Alright sir. Thank you and again my compliments for being so human as an organization. Thank you, I am done with my questions. 
+Temporal Classification: past event (Confidence: 0.433)
+
+Speaker: Moderator 
+Text: Thank you sir. The next question comes from Mr. Gurjot Aluwalia an individual investor. Please go ahead sir. 
+Temporal Classification: present event (Confidence: 0.499)
+
+Speaker: Gurjot Aluwalia 
+Text: HI, good afternoon everyone. Thank you for the opportunity. I have a question around the receivable. If I look at the annual report of four years back around 2017, at that time….and throughout 2016-17. In 2016 the revenue of the company was 113 crores and the receivables was around 20 crores. If I look at it from 2017, the revenue was around 200 crores and the receivable was around 40 crores. Again this year the revenue turnover is around 200 crores but you are talking about receivables which are 160 crores. So it is concerning as an investor to see that the receivables are increasing so sharply and also as the dividend is not being paid out in the last couple of years may be because the cash conversion is low. So it is sort of concerning us whether the company is actually able to get the receivables on time and convert it into cash so that three, four years trend is not showing in a good light for the company. 
+Temporal Classification: past event (Confidence: 0.788)
+
+Speaker: R. Jayachandran 
+Text: Sir we are happy to inform you that out of 168 crores of debt which is shown in the books, in the first quarter of 21-22 that is as of 30th of June, we could collect 80 crores out of this. So the figure is fading down to -80 crores so round about 88 crores is today’s position. The major recovery which we could asset is basically Purvanchal Vidyut Vitraan Nigam Limited and other customers. About 52 crores is from Purvanchal Vidyut Vitraan Nigam Limited. Further as earlier clarified by CMD, 28 crores is further receivable from one of the clients Purvanchal Vidyut Vitraan Nigam Limited which will also be collected in the current quarter, maybe in a month or two’s time. This month itself we will get around 12 and the balance we are expected to get before September. So I think the concern is real concern of the high receivables as compared to the turnover, but I am sure that may be the half year figures will definitely out do this. 
+Temporal Classification: present event (Confidence: 0.75)
+
+Speaker: Gurjot Aluwalia 
+Text: Okay, fantastic to hear this. I probably missed this. So already almost 100 crores will be getting collected very quickly, 80 you have already collected. I did not know this, so that really helps. And then on the dividend payout is there any policy the company has? Because two years the dividend was paid…last year because of the pandemic company wants to conserve cash…now, again I don’t know whether this year again you plan to pay any dividend going forward because you want to scale up your revenue? So what is the policy of the company? Is there any dividend payout policy? 
+Temporal Classification: past event (Confidence: 0.506)
+
+Speaker: G. Radhakrishna 
+Text: Yes. We already said we will be paying the dividend every year without fail but due to the pandemic and the three challenges that we have faced, we could not do it these two years but however wait for the AGM, in the next board meeting we will decide upon and come up with a (not clear) on that sir. clearly tells the shareholders of what the company plans so that we remain consistent and shareholder also knows that this is where the company is utilizing the cash and what is the plan going forward. So that we don’t have to worry about whether there is some inconsistency or payouts or in terms of how the company is utilizing cash one year and the next year it is different. So if there is some consistency that will be very good. 
+Temporal Classification: future event (Confidence: 0.412)
+
+Speaker: R. Jayachandran 
+Text: We will sincerely note and take note of this concern and we are not averse and the policy will be taken care actually. 
+Temporal Classification: present event (Confidence: 0.743)
+
+Speaker: Gurjot Aluwalia 
+Text: Alright thank you so much. All the best. 
+Temporal Classification: present event (Confidence: 0.507)
+
+Speaker: Moderator 
+Text: Thank you sir. Ladies and gentlemen if you have any questions please press * and 1 on your telephone keypad. The next question comes from Mr. Dixit Doshi from Whitestone Financial Advisors Pvt. Ltd. Please go ahead sir. 
+Temporal Classification: present event (Confidence: 0.47)
+
+Speaker: Dixit Doshi 
+Text: No more questions, just one request, if we can do concall every quarter it will be great sir. 
+Temporal Classification: present event (Confidence: 0.515)
+
+Speaker: Moderator 
+Text: One moment Dixit sir, pleases stay connected while we connect the management team back on the call. Ladies and gentlemen please stay connected while we connect the management team back on the call. Ladies and gentlemen we welcome the management team back on the call. Dixit sir, please go ahead with your question now. 
+Temporal Classification: present event (Confidence: 0.422)
+
+Speaker: Dixit Doshi 
+Text: Yeah, no more questions, just one request, if possible please do concall every quarter after the results sir, it would be great, thanks. 
+Temporal Classification: present event (Confidence: 0.427)
+
+Speaker: G. Radhakrishna 
+Text: Sure. We will take care of it sir and we will see after every financial result we will have a concall. 
+Temporal Classification: future event (Confidence: 0.702)
+
+Speaker: Dixit Doshi 
+Text: Yeah, thank you sir. 
+Temporal Classification: present event (Confidence: 0.519)
+
+Speaker: Moderator 
+Text: Thank you sir. The next question comes from Mr. Vinay Kumar from First Abudhabi Bank. Please go ahead sir.s it sor 
+Temporal Classification: present event (Confidence: 0.456)
+
+Speaker: Vinay Kumar 
+Text: Good afternoon to you, my question here is on the debt equity. Over the last three four years it has been gradually increasing. I believe in 2016, 2017 it was 0.4, 0.6….I think currently it stands at around 0.8, 0.9. Will you be ensuring that it remains under one as we go ahead with higher turnover and profits being booked at in 21-22, 22-23? That’s my question…debt to equity. 
+Temporal Classification: past event (Confidence: 0.444)
+
+Speaker: R. Jayachandran 
+Text: As we have explained earlier, we have been having a stress on working capital and funds position and we have not gone for higher debts actually so far. In fact practically we are debt free once we get a (not clear) no profits, I think we have also planned for a capex of 50 crores when the debts shall flow in. With that the position may be changing. As such the debt equity ratio more or less remain the same I should say. Not much of a change. Rather the debts which we have taken is coming down. Of course it is a game of debt and equity. Equity remaining the same and debt not being increased, the position is that but one more point which we will have to manufacturing of many of the equipments of our own with materials and expertise (not clear) items. So this also has probably helped the company in keeping the margins in place. So it is a give and take on both sides. Hopefully I think we are on the right track and when the new projects come then we will look for equipments which will have longer usage so that it will (not clear) its own. 
+Temporal Classification: present event (Confidence: 0.368)
+
+Speaker: Vinay Kumar 
+Text: Alright thank you for the clarification. 
+Temporal Classification: past event (Confidence: 0.404)
+
+Speaker: Moderator 
+Text: Thank you sir. Ladies and gentlemen if you have any questions, please press * and 1 on your telephone keypad. I would now request Mr. Jaya Chandran, CFO of RKEC to give closing comments. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.468)
+
+Speaker: R. Jayachandran 
+Text: Good afternoon everybody. Thank you all for participating and CMD and his team, the Hem Securities and all the shareholders for their questions and valued suggestions. We have taken note of everything and as promised we will also ensure that we will be doing a concall after every financial results are declared. We would like to convey our sincere thanks for all the shareholders prima facie for accommodating and staying with us during the difficult times of the last two years and we are hopeful that you will be able to rise to your expectations in the coming years. Thank you very much. 
+Temporal Classification: present event (Confidence: 0.4)
+
+Speaker: Moderator 
+Text: Thank you sir. Now I would request Astha ma’am to give closing comments. Astha ma’am please go ahead. 
+Temporal Classification: past event (Confidence: 0.412)
+
+Speaker: Ms. Astha Jain 
+Text: On behalf of Hem Securities Ltd, I thank RKEC for giving us detailed insight on the result and the time we spent on this call. I would also like to thank all the participants for joining this call. It was an extremely fruitful discussion. Thank you all for being on the call. Now I would like to hand over to the Moderataor. 
+Temporal Classification: present event (Confidence: 0.49)
+
+Speaker: Moderator 
+Text: Thank you ma’am. On behalf of Hem Securities Limited, that concludes the conference call. Thank you for joining. You may disconnect your lines now. Thank you and have a pleasant evening everyone. ___________________________________________________________________ 
+Temporal Classification: present event (Confidence: 0.438)
+
+Speaker: Note 
+Text: 1. This document has been edited to improve readability. 2. Blanks in this transcript represent inaudible or incomprehensible words. 
+Temporal Classification: past event (Confidence: 0.417)
+
+Concall: concall_2
+Speaker: Moderator 
+Text: Ladies and gentlemen, good day and welcome to the RKEC Projects Limited H2 FY19 and FY19 Results Conference Call. From the company's management, we have with us Mr. G. Radhakrishna – Chairman & Managing Director and Mr. G. S. Narayana – CFO of the company. I now hand the conference over to Mr. G. Radhakrishna – Chairman & Managing Director of RKEC Projects Limited. Thank you and over to you sir. 
+Temporal Classification: present event (Confidence: 0.762)
+
+Speaker: G. Radhakrishna 
+Text: Good morning ladies and gentlemen. It is my great pleasure to welcome you all again to our investor and analyst conference call to discuss RKEC Projects financial performance for the financial year FY19 and second half of FY19 and also share with you our growth plans and strategy going forward. As you all are aware, RKEC Projects Limited is a leading infra company with over 33 years of experience specialized in the business of marine works and bridges. The company has completed 92 projects so far worth over Rs. 1700 crores and currently working on 11 projects amounting to Rs. 1145 crores. During the financial year '19, the company has completed the following 3 projects – construction of multi-user liquid terminal at Cochin port with a project value Rs. 217.32 crores; construction of road overbridge at NH45A in Puducherry with a project value Rs. 34.96 crores; and provision of OTM Accommodation #1 at Leimakhong with a project value Rs. 19.73 crores. During the year, the company has received 7 new projects worth Rs. 712 crores in total. These projects are – 1). Construction of indoor sports arena in MVP Colony abutting to A. S. Raja College Grounds under smart city at Visakhapatnam, project value of Rs. 19.9 crores; 2). Farakka bridge project which includes construction of new 4-lane bridge over river Ganga, project value of Rs. 521.2 crores in JV with Qingdao Construction Engineering Group Company Limited (CQCE), China; 3). Reconstruction of new building and store accommodation for waterfront facility and slipway at Visakhapatnam, project value Rs. 7.2 crores; 4). Construction of jetty to semi-submersible pontoon at Visakhapatnam, project value of Rs. 46.96 crores; 5). Construction of berth and approach trestles for development of barge with stroke vessel loading facility at Honnavar, project value of Rs. 95.94 crores; 6). Rejuvenation of VinayakSagar Lake phase II at Tirupati, project value of Rs. 8.4 crores in JV with Rapid Net Sports System; 7). Design, execution, operation, and maintenance of sports arena at Indira Maidan and Sri Srinivasa Sports Complex at Tirupati, project value of Rs. 12.23 crores in consortium with Rapid Net Sports System. The largest contract received during the year was Farakka bridge project which includes construction of 4-lane bridge over river Ganga. The contract value of this project is Rs. 521.2 crores and the duration of completion is 36 months. Company has already achieved the second RKEC Projects Limited June 19, 2019 milestone of construction of the bridge project within 180 days against the target of 360 days. Balance work as on March 31st 2019 is Rs. 783 crores targeting another Rs 500 crores worth of projects in the next 6 months. Financial highlights for FY19: It gives us immense pleasure to tell you that the company continues to achieve and retain strong financial curve during FY19 also. The company’s standalone revenue of FY19 grew marginally by 1.8% to Rs. 245.45 crores compared to Rs. 240.77 crores in FY18. The EBITDA for the year ended FY19 stood at Rs. 43.5 crores compared to Rs. 39.48 crores for the year 2018 showing a growth of 10.38%. EBITDA margin and net profit margin for the year FY 2019 stood at 17.76% and 9.83% respectively as compared to 16.4% EBITDA margin and 8.45% net profit margin of FY 2018. Profit after tax for FY19 rose 18.57% to 24.13 crores compared to Rs. 20.35 crores posted in FY18. The company’s turnover for the second half of FY ended 2018-19 stood at 150.21 crores compared to Rs. 117.28 crores posted in H2 of FY18. The net profit for the second half of FY19 stood at 15.16 crores compared to Rs. 9.57 crores posted in H2 of FY 18. The growth in turnover was primarily because of improvement in execution at our running projects. It is my pleasure to inform you that the Board of Directors have recommended a final dividend of Rs. 2 per share for FY19. Return on average shareholders’ equity for FY19 stood at 25.15%. 
+Temporal Classification: past event (Confidence: 0.389)
+
+Speaker: Company Goals 
+Text: • To stay strong in the core competent area of marine structures and bridges and improve the market share in the segment. • To diversify into areas such as oil & gas, specialized buildings, railways, metro, etc. • To select projects with due diligence and thereby to add value to the investors. 
+Temporal Classification: past event (Confidence: 0.419)
+
+Speaker: Growth Strategy 
+Text: Our strategy and pillars of growth are: • Optimal operational efficiencies by enhancing the project execution capability and efficient project management • Capture the industry growth potential • Expand and diversify into new geographies. • Retain and attract talent. • To go for asset building by striking a balance between risk profile of owning versus hiring. Resources and Capabilities: Our key strength and competitiveness lies in: • Good track record of completion of projects. • Long experience of promoter in the construction sector. • Dedicated, focused, and successful team. • Own fleet of construction equipment. RKEC Projects Limited June 19, 2019 • Long-term relationship with clients. • High-quality cost-effective project delivery capabilities. • Timely completion of projects. • Reasonable asset base for the size for the company. 
+Temporal Classification: past event (Confidence: 0.418)
+
+Speaker: Risk Factors 
+Text: • Uneven flow of job work completed with resource allocation: We are mitigating these risks by taking up short-duration jobs including subcontracts, etc. • Stringent credit norms being insisted by banks: In this case, we have opened up a dialogue with other banks and other financial institutions. • Increase in prices of steel and fuel. • Delay in release of payments by clients: Constant follow-up with the client being done. Due diligence strengthened for selection of clients in future. 
+Temporal Classification: present event (Confidence: 0.491)
+
+Speaker: Moderator 
+Text: We will now begin the question & answer session. The first question is from the line of Ruchi Shah who is an individual investor. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.64)
+
+Speaker: Ruchi Shah 
+Text: How are the tendering activities going on with the same government coming back to power and how many orders have you already bid for? 
+Temporal Classification: present event (Confidence: 0.656)
+
+Speaker: G. Radhakrishna 
+Text: Madam, we have bid for about 5 projects worth around Rs 303 crores and we are planning to bid for another 6 projects. 
+Temporal Classification: present event (Confidence: 0.425)
+
+Speaker: Ruchi Shah 
+Text: What is the total order book as of now? 
+Temporal Classification: present event (Confidence: 0.455)
+
+Speaker: G. Radhakrishna 
+Text: As of now, we have an order book of around Rs 1145 crores out of which balance to be executed is Rs 783 crores as on today. 
+Temporal Classification: present event (Confidence: 0.864)
+
+Speaker: Moderator 
+Text: The next question is from the line of Hardik Jain from White Stone Financial Advisors. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.614)
+
+Speaker: Hardik Jain 
+Text: Sir, if you can just help us what is our banking limits that we have today? 
+Temporal Classification: present event (Confidence: 0.771)
+
+Speaker: G. Radhakrishna 
+Text: Our limit as of today is non-fund based 150 crores and fund based 50 crores. 
+Temporal Classification: past event (Confidence: 0.482)
+
+Speaker: Hardik Jain 
+Text: Non-fund based includes bank guarantee, performance guarantee, and all that? 
+Temporal Classification: past event (Confidence: 0.39)
+
+Speaker: G. Radhakrishna 
+Text: Yes. 
+Temporal Classification: present event (Confidence: 0.444)
+
+Speaker: Hardik Jain 
+Text: I think you mentioned in the call last time that you wanted to increase it to 300 crores and you are talking to Bank of Baroda regarding that, right? RKEC Projects Limited June 19, 2019 
+Temporal Classification: present event (Confidence: 0.453)
+
+Speaker: G. Radhakrishna 
+Text: Yes. 
+Temporal Classification: present event (Confidence: 0.444)
+
+Speaker: Hardik Jain 
+Text: On today’s non-fund based limit of Rs 150 crores, we have an order book of Rs 1150 crores. So, basically with this bank guarantee facility that we have, we can bid for or we can handle Rs 1150 crores order. If our banking facility’s non-fund based is increased to Rs 300 crores, then can we handle projects of say worth Rs 2000 crores? 
+Temporal Classification: present event (Confidence: 0.564)
+
+Speaker: G. Radhakrishna 
+Text: As I addressed in my initial comments, we are targeting another Rs 500 crores of projects this year. 
+Temporal Classification: present event (Confidence: 0.46)
+
+Speaker: Hardik Jain 
+Text: One small question on the accounts. I was looking through the financials. Last year, the other expenses was 8 crores which also included the IPO expenses. So, basically on an organized level, the other expenses were only Rs 6 crores and it has increased to almost Rs 13 crores this year. So, is there a particular head which has contributed to this increase? 
+Temporal Classification: past event (Confidence: 0.807)
+
+Speaker: G. Radhakrishna 
+Text: This year if you take it up, the increase in LC and DC processing charges have been put in this head and because our works have increased, the insurance cost also has increased by around some Rs 2 crores I think. Then, there were bad debts written off to the tune of around Rs 75 lakhs. All that added up to increase in this other expenses. 
+Temporal Classification: present event (Confidence: 0.541)
+
+Speaker: Moderator 
+Text: The next question is from the line of Chitresh Lunavat who is an individual investor. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.645)
+
+Speaker: Chitresh Lunawat 
+Text: Congratulation for the good year. I had a few questions. One was regarding the UP project where we have receivables of around Rs 63 crores. Any realistic dates by when we can expect the money to come and how much money can come realistically? 
+Temporal Classification: future event (Confidence: 0.432)
+
+Speaker: G. Radhakrishna 
+Text: By September end, that money will be with us. Out of Rs 63 crores, about Rs 15.93 crores is the performance guarantee amount. Leaving that, I think the balance amount will be with us. 
+Temporal Classification: past event (Confidence: 0.376)
+
+Speaker: Chitresh Lunawat 
+Text: We will be continuing with completion of the Rs 35 crores left for that project? 
+Temporal Classification: future event (Confidence: 0.544)
+
+Speaker: G. Radhakrishna 
+Text: We will be completing the balance project also. The talks are going on in that fashion. Committee has been deployed. The committee is preparing a report. By July end, we will get the report and we will start the work maybe probably by July end, and they said they wanted about 2 months to release our old balance. 
+Temporal Classification: future event (Confidence: 0.468)
+
+Speaker: ChitreshLunawat 
+Text: So, in the 82 crores receivables, 43 crores is only for this particular project, right? 
+Temporal Classification: present event (Confidence: 0.6)
+
+Speaker: G. Radhakrishna 
+Text: Yes. 
+Temporal Classification: present event (Confidence: 0.444)
+
+Speaker: ChitreshLunawat 
+Text: In the rest 40 crores, how much would be more than 6 months old? RKEC Projects Limited June 19, 2019 
+Temporal Classification: past event (Confidence: 0.722)
+
+Speaker: G. Radhakrishna 
+Text: Out of the rest, 32 crores is for the retention monies being held by various departments. Those retention monies will be released as and when the work is completed. 
+Temporal Classification: future event (Confidence: 0.648)
+
+Speaker: ChitreshLunawat 
+Text: Okay, 32 crores of retention money and 43 crores for UP project. 
+Temporal Classification: present event (Confidence: 0.427)
+
+Speaker: G. Radhakrishna 
+Text: Yes. If you remove around 75 crores, the balance left is 30 crores which is running expense and it keeps coming. No problem in that. 
+Temporal Classification: present event (Confidence: 0.549)
+
+Speaker: ChitreshLunawat 
+Text: Also, our payables have increased very sharply to 75 crores. 
+Temporal Classification: present event (Confidence: 0.792)
+
+Speaker: G. Radhakrishna 
+Text: Payables have increased because we have just started a new big project in Farakka. That is the reason why the trade payables have been increased. It is a huge project and it is an EPC contract. It is not an item rate contract. In an EPC project, generally what happens is they keep paying the money on the milestone basis, not on the items. Quantity, they don't pay. They pay on completion of work. That is why huge trade payables will be there and they will be cleared as soon as those payments keep coming to us. 
+Temporal Classification: present event (Confidence: 0.809)
+
+Speaker: ChitreshLunawat 
+Text: So, we are not facing any issues in the Farakka project for receiving of the payments? 
+Temporal Classification: present event (Confidence: 0.698)
+
+Speaker: G. Radhakrishna 
+Text: As of now, by god’s grace, we are not facing any of the issues. 
+Temporal Classification: present event (Confidence: 0.429)
+
+Speaker: ChitreshLunawat 
+Text: How many milestones are there for the Farakka project totally? We have completed 2 milestones, right? 
+Temporal Classification: past event (Confidence: 0.522)
+
+Speaker: G. Radhakrishna 
+Text: There are 2 more milestones; at the end of second year and next is completion. 
+Temporal Classification: future event (Confidence: 0.628)
+
+Speaker: ChitreshLunawat 
+Text: Our end of the year target for the order book would be around 1000 crores? 
+Temporal Classification: present event (Confidence: 0.478)
+
+Speaker: G. Radhakrishna 
+Text: Around 1300 crores we are expecting the order book should be there. Order book will be more but work to be executed should be around 1000 crores this time. 
+Temporal Classification: present event (Confidence: 0.701)
+
+Speaker: ChitreshLunawat 
+Text: So, we will be completing 300 crores this year and 1000 crores would be remaining at the end of the year, okay. 
+Temporal Classification: present event (Confidence: 0.684)
+
+Speaker: Moderator 
+Text: The next question is from the line of Hardik Jain from White Stone Financial Advisors. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.614)
+
+Speaker: Hardik Jain 
+Text: Sir, there is a work in progress of 9 to 10 crores in this year-end. How much more we wish to invest in the CAPEX? 
+Temporal Classification: present event (Confidence: 0.651)
+
+Speaker: G. Radhakrishna 
+Text: We will be investing another 20 crores. RKEC Projects Limited June 19, 2019 
+Temporal Classification: present event (Confidence: 0.539)
+
+Speaker: Hardik Jain 
+Text: And this will be done in this year? 
+Temporal Classification: future event (Confidence: 0.576)
+
+Speaker: G. Radhakrishna 
+Text: Yes, this will be done in this year. 
+Temporal Classification: present event (Confidence: 0.685)
+
+Speaker: Hardik Jain 
+Text: So, fixed asset will increase by a total of 30 crores by the end of this year, right? 
+Temporal Classification: present event (Confidence: 0.605)
+
+Speaker: G. Radhakrishna 
+Text: Yes sir. 
+Temporal Classification: present event (Confidence: 0.474)
+
+Speaker: Hardik Jain 
+Text: This CAPEX is basically done for Farakka? 
+Temporal Classification: past event (Confidence: 0.763)
+
+Speaker: G. Radhakrishna 
+Text: These 9 crores is basically for Farakka only and addition of maybe another 5 crores in this financial year is for Farakka. Those expenses will be written off in the next 3 years itself. 
+Temporal Classification: future event (Confidence: 0.447)
+
+Speaker: Hardik Jain 
+Text: So, this CAPEX what we are doing will be written off in 3 years? 
+Temporal Classification: future event (Confidence: 0.751)
+
+Speaker: G. Radhakrishna 
+Text: Yes, in 3 years. 
+Temporal Classification: future event (Confidence: 0.746)
+
+Speaker: Hardik Jain 
+Text: I think we get some customer advances which are part of current liability. What is the amount of customer advances that we have today? 
+Temporal Classification: present event (Confidence: 0.942)
+
+Speaker: G. Radhakrishna 
+Text: It is only 2 crore 34 lakhs. 
+Temporal Classification: present event (Confidence: 0.549)
+
+Speaker: Hardik Jain 
+Text: As per your presentation, most of the projects that are to be completed is in FY20. If we just go by the schedule of date of completion that you have mentioned, the value of remaining work is total 783 crores out of which almost 500-550 crores we have to complete during this year. So, if we conclude, then can we achieve around 400-crore turnover this year because your deadline is mostly you have to complete these projects by this year? 
+Temporal Classification: present event (Confidence: 0.729)
+
+Speaker: G. Radhakrishna 
+Text: Yes, we have to achieve. There is no other option for us and we will achieve also. 
+Temporal Classification: present event (Confidence: 0.567)
+
+Speaker: Moderator 
+Text: Next, we have a follow-up question from the line of ChitreshLunawat who is an individual investor. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.548)
+
+Speaker: ChitreshLunawat 
+Text: Sir, I also wanted to know about the Drone projects. We were targeting around 250 employees I believe for the Drone thing this year. Any updates on what’s happening in that area? 
+Temporal Classification: present event (Confidence: 0.392)
+
+Speaker: G. Radhakrishna 
+Text: Because we were not able to control expenses on that, we have closed that project. 
+Temporal Classification: past event (Confidence: 0.858)
+
+Speaker: ChitreshLunawat 
+Text: Currently being in the liquidity situation and all the NBFCs and banking institutions which are facing severe liquidity crunch, what is your take on that? Because our fund-based limit is only 50 crores and we are targeting around 400 crores. Could you please guide us on that? RKEC Projects Limited June 19, 2019 
+Temporal Classification: present event (Confidence: 0.92)
+
+Speaker: G. Radhakrishna 
+Text: One good news is that our Purvanchal work is getting settled. We have an amount of around 50-60 crores held up there. We are getting that amount by this September. Because of that only, we are going for additional 500 crores of jobs. With that, I feel we may not have any financial crunch now. We can do it with our own internal accruals. 
+Temporal Classification: present event (Confidence: 0.444)
+
+Speaker: ChitreshLunawat 
+Text: How much is the bank guarantee for the Farakka project? 
+Temporal Classification: present event (Confidence: 0.569)
+
+Speaker: G. Radhakrishna 
+Text: It is around 75 crores. 
+Temporal Classification: present event (Confidence: 0.568)
+
+Speaker: ChitreshLunawat 
+Text: 15%, okay. And who are our bankers currently? 
+Temporal Classification: present event (Confidence: 0.505)
+
+Speaker: G. Radhakrishna 
+Text: Earlier it was Vijaya Bank, now clubbed with Bank of Baroda. 
+Temporal Classification: past event (Confidence: 0.918)
+
+Speaker: ChitreshLunawat 
+Text: The limits you told are combining both of them, right sir? 
+Temporal Classification: present event (Confidence: 0.571)
+
+Speaker: G. Radhakrishna 
+Text: Yes, we are presently having 200 crores with us. Now we have asked for enhancement to 300 crores. The proposal is going today. Maybe in another 1 month, we should be able to get the approval. 
+Temporal Classification: present event (Confidence: 0.612)
+
+Speaker: ChitreshLunawat 
+Text: Sir, what is the management’s view for the next 3 to 5 years? What do you want to achieve? What do you want to do? 
+Temporal Classification: future event (Confidence: 0.729)
+
+Speaker: G. Radhakrishna 
+Text: We would like to move up and emphasize more on our core competence rather than getting into some other work because there is no change in the government. The present BJP government must be going for more on infra work. With lot of bridges and lot of things they had already announced, with coming onto that, I think we can choose and pick up the jobs rather than going for a competition from now on. This is what I feel. Next 5 years will be a good business for us provided we have this fund based and non-fund based limits more. 
+Temporal Classification: past event (Confidence: 0.559)
+
+Speaker: ChitreshLunawat 
+Text: Any milestone we have set for us like what we want to achieve, like 2000 crores? 
+Temporal Classification: future event (Confidence: 0.435)
+
+Speaker: G. Radhakrishna 
+Text: We have today a target of maintaining a turnover between 400 to 500 crores for the next 3-4 years, stabilize ourselves, make our staff to understand what is our view, what are our priorities, understand the system, and then we would like to jump for the next phase of around 750-800 crores, stay there for about 3-4 years and then move further forward. 
+Temporal Classification: future event (Confidence: 0.458)
+
+Speaker: ChitreshLunawat 
+Text: We will be completing this 512-crore project maybe next year, I mean 1 to 1-1/2 years. So, now are we eligible to directly bid for a project which is 500 crores plus or we still need joint venture? 
+Temporal Classification: future event (Confidence: 0.706)
+
+Speaker: G. Radhakrishna 
+Text: Our limit should be around 400 crores as of now. That 500 crores job what we got is because of joint venture with Chinese company. RKEC Projects Limited June 19, 2019 
+Temporal Classification: present event (Confidence: 0.704)
+
+Speaker: ChitreshLunawat 
+Text: Correct sir. Just wanted to understand our limit now. 
+Temporal Classification: present event (Confidence: 0.484)
+
+Speaker: G. Radhakrishna 
+Text: On our own, we can bid projects up to 400 crores. 
+Temporal Classification: present event (Confidence: 0.645)
+
+Speaker: ChitreshLunawat 
+Text: What is the current status of how much order have we applied? Are we alone in anything? 
+Temporal Classification: present event (Confidence: 0.78)
+
+Speaker: G. Radhakrishna 
+Text: Not yet because the elections are just over. They are still to settle down. Maybe in another 2 months, we should be able to get a couple of jobs into our account. 
+Temporal Classification: future event (Confidence: 0.635)
+
+Speaker: ChitreshLunawat 
+Text: So, we have already something in pipeline, okay. 
+Temporal Classification: past event (Confidence: 0.492)
+
+Speaker: G. Radhakrishna 
+Text: Yes, we have got some 5 jobs in pipeline. We are confident that we will be getting 2 jobs out of those valued at around 225 crores and we are trying for another 300 crores with some other department. So, with that, this year I think that should be enough for us. 
+Temporal Classification: past event (Confidence: 0.4)
+
+Speaker: ChitreshLunawat 
+Text: And the question was regarding the competition. Earlier you told that one of your competitor was very, very aggressive and was taking away all the projects but now being in the liquidity situation, how do you feel the competition now itself regarding infrastructure projects? 
+Temporal Classification: past event (Confidence: 0.596)
+
+Speaker: G. Radhakrishna 
+Text: I was telling you that we have the option of now only pick the jobs. Whatever jobs we want, we can pick and then quote rather than going into the competition. Because our liquidity position and all are good, I don't think we will have to go for a competition. If we wait, the jobs will automatically come to us. 
+Temporal Classification: present event (Confidence: 0.548)
+
+Speaker: ChitreshLunawat 
+Text: That is a very nice situation to be in. so, we can expect PAT margin of around 9% to 10% for this year as well? 
+Temporal Classification: present event (Confidence: 0.901)
+
+Speaker: G. Radhakrishna 
+Text: If everything goes well, definitely we can expect. 
+Temporal Classification: future event (Confidence: 0.65)
+
+Speaker: Moderator 
+Text: The next question is from the line of Ashok Shah from LFC Securities. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.56)
+
+Speaker: Ashok Shah 
+Text: Sir, we had some outstandings from completed projects from some government institution. What is the current situation and outstanding from which other companies is pending? 
+Temporal Classification: present event (Confidence: 0.571)
+
+Speaker: G. Radhakrishna 
+Text: By September end, we should be able to get that money back to our account. 
+Temporal Classification: present event (Confidence: 0.462)
+
+Speaker: Ashok Shah 
+Text: The outstanding which was from some government institution or government project, have we approached any legal arbitration or something like that? 
+Temporal Classification: past event (Confidence: 0.683)
+
+Speaker: G. Radhakrishna 
+Text: Nothing, we have no arbitration or legal anything as of now. 
+Temporal Classification: future event (Confidence: 0.42)
+
+Speaker: Ashok Shah 
+Text: What is the figure of this outstanding? RKEC Projects Limited June 19, 2019 
+Temporal Classification: future event (Confidence: 0.411)
+
+Speaker: G. Radhakrishna 
+Text: Outstanding is around 82 crores as of now with us. Out of 82 crores, 43 crores is from Purvanchal which we will be getting by end of September. 32 crores as retention money for the work which will be given only after completion of the work. 
+Temporal Classification: present event (Confidence: 0.788)
+
+Speaker: Ashok Shah 
+Text: Purvanchal, did we get something during the last 6 months? 
+Temporal Classification: past event (Confidence: 0.896)
+
+Speaker: G. Radhakrishna 
+Text: We didn’t get anything. By September, we will be getting the amount. 
+Temporal Classification: past event (Confidence: 0.551)
+
+Speaker: Ashok Shah 
+Text: We are following through the legal procedure or it is a normal procedure? 
+Temporal Classification: present event (Confidence: 0.731)
+
+Speaker: G. Radhakrishna 
+Text: It is an amicable settlement. 
+Temporal Classification: present event (Confidence: 0.628)
+
+Speaker: Moderator 
+Text: The next question is from the line of Nilesh Karani from Magnum Equities. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.573)
+
+Speaker: Nilesh Karani 
+Text: I just wanted to understand in the next 2 years or 1 year if you can give us a guideline like how our company will be panning out? 
+Temporal Classification: future event (Confidence: 0.872)
+
+Speaker: G. Radhakrishna 
+Text: Last year, we had given you a growth of around 15% to 20% is what we had promised but we couldn’t do that because execution of one work was delayed. This growth of 15% to 20% last year about 50 crores and the coming year should be around 60 crores. So, we will be adding up at least 110 to 120 crores additionally this year. That means, it should be around 350 to 400 crores this year. 
+Temporal Classification: past event (Confidence: 0.886)
+
+Speaker: Nilesh Karani 
+Text: How would be our margin outlook like? 
+Temporal Classification: future event (Confidence: 0.606)
+
+Speaker: G. Radhakrishna 
+Text: EBITDA would be around 13% to 15% and PAT would be between 8% to 10%. So, on 350 crores, around 25 to 30 crores of PAT you can expect. 
+Temporal Classification: present event (Confidence: 0.7)
+
+Speaker: Moderator 
+Text: As there are no further questions, I would now like to hand the conference back to Mr. G. Radhakrishna for closing comments. 
+Temporal Classification: past event (Confidence: 0.444)
+
+Speaker: G. Radhakrishna 
+Text: Before we close this session, let me once again assure you that we are here to take the company to the next level and create significant value for all stakeholders by delivering exceptional quality projects resulting in superior shareholder returns in the medium-term perspective. We propose to move forward in a steady manner. On behalf of RKEC, we would like to thank you all for participation in this conference call amidst your busy day. Thank you and have a wonderful time ahead. Jai Hind. 
+Temporal Classification: present event (Confidence: 0.48)
+
+Speaker: Moderator 
+Text: On behalf of RKEC Projects, that concludes this conference. Thank you for joining us. Ladies and gentlemen, you may now disconnect your lines. 
+Temporal Classification: present event (Confidence: 0.439)
+
+Concall: concall_3
+Speaker: Moderator 
+Text: Thank you very much. We will now begin the question-and-answer session. The first question is from the line of A M Lodha from Sanmati Consultants. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.584)
+
+Speaker: AM Lodha 
+Text: I have two questions. Just I wanted to know the order book position as on date? 
+Temporal Classification: past event (Confidence: 0.54)
+
+Speaker: Radhakrishna Garapati 
+Text: Rs. 826 crores. 
+Temporal Classification: present event (Confidence: 0.462)
+
+Speaker: AM Lodha 
+Text: Another we had one order with Chinese joint venture the Rs. 525crores, we were in L1 position, so that order has been confirmed? 
+Temporal Classification: past event (Confidence: 0.495)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah, it will be confirmed in few days. We have not taken the order. It will be confirmed in another few days which as it have gone to Ministry of Home Affairs for security clearance. 
+Temporal Classification: future event (Confidence: 0.702)
+
+Speaker: AM Lodha 
+Text: Relating to that, is there another joint venture with the Chinese? Have we bid any other orders with that company also in addition to this Rs. 525crores? 
+Temporal Classification: present event (Confidence: 0.545)
+
+Speaker: Radhakrishna Garapati 
+Text: No. As of now there is only one bid we have done. 
+Temporal Classification: past event (Confidence: 0.669)
+
+Speaker: AM Lodha 
+Text: In addition to the profit sharing arrangement with the Chinese partner, we shall have to pay royalty on this? 
+Temporal Classification: present event (Confidence: 0.688)
+
+Speaker: Radhakrishna Garapati 
+Text: It is on a profit sharing ratio. 
+Temporal Classification: present event (Confidence: 0.698)
+
+Speaker: Moderator 
+Text: Thank you. The next question is from the line of Hardik Jain from White Stone Financial Advisors. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.55)
+
+Speaker: Hardik Jain 
+Text: Order book you mentioned is Rs. 826 crores which is unexecuted part. Does this Rs. 826 crores include the Rs. 500 crores order that we got with the Chinese JV? 
+Temporal Classification: past event (Confidence: 0.608)
+
+Speaker: Radhakrishna Garapati 
+Text: Yes. 
+Temporal Classification: present event (Confidence: 0.444)
+
+Speaker: Hardik Jain 
+Text: So, Rs. 500 crores is including in it? 
+Temporal Classification: present event (Confidence: 0.607)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah, including that. 
+Temporal Classification: present event (Confidence: 0.499)
+
+Speaker: Hardik Jain 
+Text: How many number of projects does this Rs. 826 crores stand for? 
+Temporal Classification: present event (Confidence: 0.557)
+
+Speaker: Radhakrishna Garapati 
+Text: Old projects are around five projects and new projects are three. 
+Temporal Classification: past event (Confidence: 0.894)
+
+Speaker: Hardik Jain 
+Text: Five plus three, okay total eight projects totaling Rs. 826 crores? 
+Temporal Classification: present event (Confidence: 0.391)
+
+Speaker: Radhakrishna Garapati 
+Text: Nine projects, 6 plus 3. Old projects are around Rs. 250 crores, new projects are Rs. 521 crores, Rs. 47 crores and Rs. 7 crores 
+Temporal Classification: past event (Confidence: 0.659)
+
+Speaker: Hardik Jain 
+Text: Out of this Rs. 826 crores, how much percentage would be marine projects and roads, if you can bifurcate? 
+Temporal Classification: present event (Confidence: 0.569)
+
+Speaker: Radhakrishna Garapati 
+Text: Marine projects would be around Rs 200 crores, out of Rs. 826 crores balance. 
+Temporal Classification: present event (Confidence: 0.61)
+
+Speaker: Hardik Jain 
+Text: In the last call you had mentioned that you had bid with some UAE JV for gas pipeline link project. What is the update, sir? 
+Temporal Classification: past event (Confidence: 0.777)
+
+Speaker: Radhakrishna Garapati 
+Text: We are not successful in that. 
+Temporal Classification: past event (Confidence: 0.563)
+
+Speaker: Hardik Jain 
+Text: Apart from the projects orders that we have in hand, what is the size of the bidding that we have done and for which we are awaiting the results? 
+Temporal Classification: present event (Confidence: 0.543)
+
+Speaker: Radhakrishna Garapati 
+Text: We have bid for another Rs. 560 crores. 
+Temporal Classification: present event (Confidence: 0.509)
+
+Speaker: Hardik Jain 
+Text: And number of projects? 
+Temporal Classification: future event (Confidence: 0.432)
+
+Speaker: Radhakrishna Garapati 
+Text: Number of projects is three. We have to bid for around three projects and all these projects except one which is around Rs. 20 crores is marine 
+Temporal Classification: present event (Confidence: 0.729)
+
+Speaker: Hardik Jain 
+Text: Except one everything is marine? 
+Temporal Classification: present event (Confidence: 0.627)
+
+Speaker: RadhakrishnaGarapati 
+Text: Yeah. 
+Temporal Classification: past event (Confidence: 0.47)
+
+Speaker: Hardik Jain 
+Text: When we bided for this Rs. 500 crores order with Chinese JV, how much money we have invested in this JV? 
+Temporal Classification: past event (Confidence: 0.462)
+
+Speaker: Radhakrishna Garapati 
+Text: Only the design charges and other things which was approximately around Rs. 15 lakhs to Rs. 20 lakhs, and my visit to China, another Rs. 3 lakhs to Rs. 4 lakhs for verifying the company. 
+Temporal Classification: past event (Confidence: 0.553)
+
+Speaker: Hardik Jain 
+Text: You must have created a separate company for this JV, right? 
+Temporal Classification: present event (Confidence: 0.503)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah. 
+Temporal Classification: past event (Confidence: 0.47)
+
+Speaker: Hardik Jain 
+Text: So how much equity we have invested in that company? 
+Temporal Classification: present event (Confidence: 0.62)
+
+Speaker: Radhakrishna Garapati 
+Text: No, we have not floated any company and the complete work will be executed by us. 
+Temporal Classification: present event (Confidence: 0.356)
+
+Speaker: Hardik Jain 
+Text: And for this Rs. 500 crores project last time you mentioned that generally we have to give 20% bank guarantee for securing all the orders, so in this case for Rs. 500 crores how much BG will be required? 
+Temporal Classification: past event (Confidence: 0.592)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah, we will be requiring Rs. 100 crores. 
+Temporal Classification: future event (Confidence: 0.481)
+
+Speaker: Hardik Jain 
+Text: So this Rs. 100 crores is already like financial closures are done with the bank and secured? 
+Temporal Classification: past event (Confidence: 0.53)
+
+Speaker: Radhakrishna Garapati 
+Text: Yes, at present we have limits of Rs. 120 crores, non fund based and Rs. 15 crores fund based with Vijaya Bank. We had applied for enhancement to Rs. 250 crores non-fund based and Rs. 50 crores fund based. We are going to get their approval by this month end. 
+Temporal Classification: present event (Confidence: 0.881)
+
+Speaker: Hardik Jain 
+Text: So this should not be a problem for us? 
+Temporal Classification: present event (Confidence: 0.481)
+
+Speaker: Radhakrishna Garapati 
+Text: I have already spoken to MD of Vijaya Bank. I have visited twice, and they are convinced. They are going to give us the approval for Rs. 300 crores. 
+Temporal Classification: present event (Confidence: 0.401)
+
+Speaker: Hardik Jain 
+Text: And how much is our share in the JV? 
+Temporal Classification: present event (Confidence: 0.537)
+
+Speaker: Radhakrishna Garapati 
+Text: It is actually 51% and 49% but the overall work will be executed by us and we give them only a part profit. Whatever the profit we get it, we will give them 2.75% . 
+Temporal Classification: present event (Confidence: 0.586)
+
+Speaker: Hardik Jain 
+Text: So basically this 51% and 49% is what the shareholding? 
+Temporal Classification: present event (Confidence: 0.761)
+
+Speaker: Radhakrishna Garapati 
+Text: Shareholding which has to be given to NHAI. 
+Temporal Classification: present event (Confidence: 0.673)
+
+Speaker: Hardik Jain 
+Text: But we will get 97.25% of the profit? 
+Temporal Classification: present event (Confidence: 0.406)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah. 
+Temporal Classification: past event (Confidence: 0.47)
+
+Speaker: Hardik Jain 
+Text: At the time of the IPO analyst meet, you said that one of the main reasons for our margins to, that are really high is because most of our equipment are our own and we do not hire them, so do you think that with this kind of order book that is increasing, our equipment that we have will be sufficient enough to cater for Rs. 300 crores top line that we are mentioning? 
+Temporal Classification: past event (Confidence: 0.695)
+
+Speaker: Radhakrishna Garapati 
+Text: Whatever equipment we have earlier is only for our Marine work. Now we are entering into bigger projects, so we may have to increase our CAPEX, at least to around Rs. 70 crores to Rs. 80 crores. 
+Temporal Classification: past event (Confidence: 0.544)
+
+Speaker: Hardik Jain 
+Text: So this year how much CAPEX have you planned? 
+Temporal Classification: future event (Confidence: 0.643)
+
+Speaker: Radhakrishna Garapati 
+Text: It must be aroundRs. 35 crores to Rs. 40 crores for this year 
+Temporal Classification: present event (Confidence: 0.67)
+
+Speaker: Moderator 
+Text: Thank you. The next question is from the line of ChitreshLunawat, an individual investor. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.563)
+
+Speaker: Chitresh Lunawat 
+Text: I would like to know about the Gujarat project, Rs. 250 crores worth Gujarat project which we were bidding. So any update on that? 
+Temporal Classification: present event (Confidence: 0.45)
+
+Speaker: Radhakrishna Garapati 
+Text: We had bid for two projects. Out of which one project was held up due to non availability of environment clearance from government. And the other project, will open anytime before this month end. 
+Temporal Classification: present event (Confidence: 0.506)
+
+Speaker: Chitresh Lunawat 
+Text: That project is Rs. 250 crores kind of project size? 
+Temporal Classification: present event (Confidence: 0.404)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah, it is around Rs. 260 crores odd. 
+Temporal Classification: present event (Confidence: 0.6)
+
+Speaker: Chitresh Lunawat 
+Text: Now we heard plans of like BG and CAPEX, so any fundraising plan from the promoter like pledging of shares or by like how are we raising the fund? 
+Temporal Classification: future event (Confidence: 0.47)
+
+Speaker: Radhakrishna Garapati 
+Text: We will have to pledge the shares, otherwise without collaterals no bank is giving financial assistance, you see the bank scenario has changed, without collaterals they are not giving any bank guarantees or anything, so we have no option except to pledge the shares. That is our last option. 
+Temporal Classification: present event (Confidence: 0.55)
+
+Speaker: Chitresh Lunawat 
+Text: Any plans to raise further equity like FPO? 
+Temporal Classification: future event (Confidence: 0.463)
+
+Speaker: Radhakrishna Garapati 
+Text: As of now nothing. 
+Temporal Classification: future event (Confidence: 0.428)
+
+Speaker: Chitresh Lunawat 
+Text: Apart from this Rs. 525 crores project, any other guidelines? As you have told you bid for around Rs. 1,400 crores project and success is around 30% to 40%, so we can expect more Rs. 500 crores to Rs. 600 crores worth of projects this year? 
+Temporal Classification: present event (Confidence: 0.474)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah. By this financial year end we will be reaching around Rs. 1,300 crores order book value. 
+Temporal Classification: present event (Confidence: 0.584)
+
+Speaker: Chitresh Lunawat 
+Text: And also any update on the Drone subsidiary like what is happening there? 
+Temporal Classification: present event (Confidence: 0.473)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah, Drones actually we have tendered works of around Rs. 28 crores and we received orders to the tune of Rs. 8.07 crores. We are expecting another Rs. 10 crores in that. 
+Temporal Classification: present event (Confidence: 0.472)
+
+Speaker: Chitresh Lunawat 
+Text: So this year how much we did for drone subsidiary like how much revenue from that? 
+Temporal Classification: present event (Confidence: 0.642)
+
+Speaker: Radhakrishna Garapati 
+Text: These are works got during the current year. We have started executing now. Regarding the drone, entering into Defense is not that easy but we are still trying our level best. Our R&D department is trying very hard to get into their specifications. We have a strong team on Board Admiral Satish Soni, General P. R. Kumar, then Wg Cdr Sreedhar, Brigadier G S Narayan, to guide us on the same. It may take some more time for us to get into this because there are many big players and it is becoming difficult for us to enter directly. But we did not lose our hope, and our team is working hard. It may take 2 to 3 years to get a real picture. 
+Temporal Classification: present event (Confidence: 0.465)
+
+Speaker: Chitresh Lunawat 
+Text: So are we talking with someone for Joint Venture for technology collaboration or it is our own technology? 
+Temporal Classification: present event (Confidence: 0.575)
+
+Speaker: Radhakrishna Garapati 
+Text: We opened our own R & D cell. We are in the process of negotiation with some professionals and get them board. Depending on the advantage that the company gets, we will try and get things done. 
+Temporal Classification: present event (Confidence: 0.472)
+
+Speaker: Chitresh Lunawat 
+Text: We have around Rs. 12 crores of fixed assets, but we are able to manage like revenues of around Rs. 200 crores to Rs. 300 crores, any idea like how we are able to manage such a high revenue with this low fixed assets? 
+Temporal Classification: present event (Confidence: 0.551)
+
+Speaker: Radhakrishna Garapati 
+Text: Please repeat the question. 
+Temporal Classification: past event (Confidence: 0.435)
+
+Speaker: Chitresh Lunawat 
+Text: Yeah, I was talking about fixed assets. As per the annual report the fixed asset was Rs. 12 crores. So am I wrong there like any numbers for the fixed asset currently? 
+Temporal Classification: past event (Confidence: 0.477)
+
+Speaker: Radhakrishna Garapati 
+Text: So actually if you look at the fixed assets, as given the balance sheet the, historical cost of acquisition of the asset is Rs. 38.32 crores and the book value is around Rs. 14.25 crores and we do maintain the assets well. So if you really look at the asset value as a replacement cost, it is not Rs. 12 crores, it is much rose. Maybe you can say on a practical sense, it is around Rs. 60 to Rs. 70 crores as far as utilization is concerned. As well as revenue generation is concerned. So the Rs. 12 crores which we have concluded may not be very correct. 
+Temporal Classification: past event (Confidence: 0.79)
+
+Speaker: Moderator 
+Text: Thank you. The next question is from the line of Ronit Ramesh from Finance Managers. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.536)
+
+Speaker: Ronit Ramesh 
+Text: First question is on the trade receivables. Sales is around 20% but your receivables that is on a double, why is that the reason? 
+Temporal Classification: present event (Confidence: 0.704)
+
+Speaker: Radhakrishna Garapati 
+Text: Can you speak a little louder? 
+Temporal Classification: present event (Confidence: 0.495)
+
+Speaker: Ronit Ramesh 
+Text: Question is on Trade receivables which are around Rs. 40 crores to Rs. 82 crores. Why is that doubled? And also can you tell me debtors more than 6 months in this? 
+Temporal Classification: present event (Confidence: 0.467)
+
+Speaker: Radhakrishna Garapati 
+Text: It is a fact that the trade receivables has gone up to Rs. 82 crores for the current year. This is mainly because of one project where around Rs. 45 crores is actually due from the work specified that is on rural electrification work of PurvanchalVidyut Nigam Limited. The work certified for payment, the total work value of the contract is around Rs. 120 crores and work certified for payment is Rs. 84 crores and actual payment received is Rs. 45 crores. So this is basically a back ended pricing formula which they are following for the release of payments. And practically the work for Rs. 106 to Rs. 110 crores have already been completed. So we expect the position should improve in current year once the work is completed. Because the end of work we should get higher payment. 
+Temporal Classification: present event (Confidence: 0.61)
+
+Speaker: Ronit Ramesh 
+Text: By when is that? 
+Temporal Classification: future event (Confidence: 0.571)
+
+Speaker: Radhakrishna Garapati 
+Text: That should be another four-and-a-half months from now. It is a state government project, even though part of funding is coming from central government. The project is managed by the state government. 
+Temporal Classification: future event (Confidence: 0.752)
+
+Speaker: Ronit Ramesh 
+Text: Okay, so this is a receivable from state government only no? 
+Temporal Classification: present event (Confidence: 0.459)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah, actually the project is managed by state government. So we expect that this position should improve by maybe September-October 2018 and once we are able to wind up the project. 
+Temporal Classification: future event (Confidence: 0.449)
+
+Speaker: Ronit Ramesh 
+Text: Okay, so that was one of the main reasons why your short term borrowing has spiked from almost Rs. 0 crores to Rs. 13 crores? 
+Temporal Classification: present event (Confidence: 0.749)
+
+Speaker: Radhakrishna Garapati 
+Text: For the current year cash credit limit has gone up, from last year March it was 0, current year it is approximately Rs. 13.5 crores of borrowing is there. We do expect realizations on some of the projects like Cochin to some extent from JNPT in the first quarter of current financial year, so around Rs. 36 crores is expected from two of projects. So I think this position will improve by end of first quarter. 
+Temporal Classification: present event (Confidence: 0.422)
+
+Speaker: Ronit Ramesh 
+Text: And Cochin Liquid Terminal is completed, the order is done with? 
+Temporal Classification: past event (Confidence: 0.53)
+
+Speaker: RadhakrishnaGarapati 
+Text: Yeah, the order is completed. But final handing over is expected in another one-and-a-half month's time and thereafter money will be released. Realization of around Rs. 27 crores is expected from Cochin and another Rs. 10 crores from other projecst. So this cash possession or the overdraft possession is getting in a better position by end of first quarter or maybe July 2018. 
+Temporal Classification: future event (Confidence: 0.401)
+
+Speaker: Ronit Ramesh 
+Text: But in the last con call you said that Cochin is almost complete and almost 85% to 90% is done and only the maintenance type of thing is going on you almost finished with this. Is there been a delay? 
+Temporal Classification: past event (Confidence: 0.502)
+
+Speaker: Radhakrishna Garapati 
+Text: No, there is no delay on our part and there is an extension given by the Cochin Port Trust. Out of this Rs. 82 crores, Rs. 15.26 crores is due from Cochin. Some more billings are expected to take place. So what I was trying to tell you is that from the Cochin project alone, a cash inflow of approximately Rs. 27 crores is expected by the first quarter or latest by July 2018. So once that happens, the cash position of the company will improve. 
+Temporal Classification: present event (Confidence: 0.384)
+
+Speaker: Ronit Ramesh 
+Text: And around Rs. 40 crores from the state government for the other projects? 
+Temporal Classification: present event (Confidence: 0.366)
+
+Speaker: Radhakrishna Garapati 
+Text: It is actually the project of Indian Oil Corporation and they have entrusted undertaking of this project through Cochin Port Trust. 
+Temporal Classification: present event (Confidence: 0.833)
+
+Speaker: Ronit Ramesh 
+Text: In your last con call, your revenue guidance for FY19 was Rs. 350 crores if I am not mistaken. Has it come down to Rs. 300 crores for FY19 now? 
+Temporal Classification: past event (Confidence: 0.41)
+
+Speaker: Radhakrishna Garapati 
+Text: We have not said anything. We said that achieved every year, there will be an increase of 20% to 25% and we have received around 21% this year. Next year maybe we will be seeing another 30% to 35%. 
+Temporal Classification: past event (Confidence: 0.546)
+
+Speaker: Moderator 
+Text: Thank you. The next question is from the line of Ashok Shah from LFC Securities. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.513)
+
+Speaker: Ashok Shah 
+Text: Out of this Rs. 826 crores orders which we are executing can you tell how much is Defense sector? 
+Temporal Classification: present event (Confidence: 0.695)
+
+Speaker: Radhakrishna Garapati 
+Text: Defense would around Rs. 150 crores. 
+Temporal Classification: present event (Confidence: 0.604)
+
+Speaker: Ashok Shah 
+Text: Only Rs. 150 crores and remaining is for the Marine or the Road sector? 
+Temporal Classification: present event (Confidence: 0.566)
+
+Speaker: Radhakrishna Garapati 
+Text: Marine will be another Rs. 200 crores and balance will be the bridges. 
+Temporal Classification: present event (Confidence: 0.641)
+
+Speaker: Ashok Shah 
+Text: So in case of this Defense, the billing is every 15 days or every 30 days? 
+Temporal Classification: present event (Confidence: 0.544)
+
+Speaker: Radhakrishna Garapati 
+Text: Billing is 15 to 30 days. 
+Temporal Classification: past event (Confidence: 0.411)
+
+Speaker: Ashok Shah 
+Text: And in Marine and Road sector? 
+Temporal Classification: present event (Confidence: 0.562)
+
+Speaker: Radhakrishna Garapati 
+Text: Marine also same, because they are all Central Government only. Road sector would be around 52 days. 
+Temporal Classification: present event (Confidence: 0.618)
+
+Speaker: Ashok Shah 
+Text: So how much time do they take to release the payment after we bill them? 
+Temporal Classification: present event (Confidence: 0.544)
+
+Speaker: Radhakrishna Garapati 
+Text: Actually as per contract it is 52 days. But generally what we do is we request them and get the first initial 70% payment within 7 to 10 days. And balance will take 52 days to certify and then give the balance 30%. 
+Temporal Classification: present event (Confidence: 0.524)
+
+Speaker: Ashok Shah 
+Text: So any other money left to be collected, returns money from any end of the past projects which we are expected to receive? 
+Temporal Classification: past event (Confidence: 0.906)
+
+Speaker: Radhakrishna Garapati 
+Text: Nothing. 
+Temporal Classification: past event (Confidence: 0.74)
+
+Speaker: Ashok Shah 
+Text: Retention money, no money to be received? 
+Temporal Classification: past event (Confidence: 0.543)
+
+Speaker: Radhakrishna Garapati 
+Text: Retention money is there, retention money would be around some Rs. 20 crores which is to be received which we will be receiving on completion of these projects. 
+Temporal Classification: future event (Confidence: 0.47)
+
+Speaker: Ashok Shah 
+Text: So during this current year or it takes more than 1 year? 
+Temporal Classification: present event (Confidence: 0.734)
+
+Speaker: Radhakrishna Garapati 
+Text: During current year, we may receive around Rs. 15 crores. 
+Temporal Classification: present event (Confidence: 0.932)
+
+Speaker: Ashok Shah 
+Text: It is already billed in the accounts or it will be extra showing as accounts during the current year? 
+Temporal Classification: present event (Confidence: 0.575)
+
+Speaker: Radhakrishna Garapati 
+Text: Please repeat the question. 
+Temporal Classification: past event (Confidence: 0.435)
+
+Speaker: Ashok Shah 
+Text: This retention money around Rs. 15 crores which we are expecting to receive during the current year. Is it billed in the accounts or it will be billed as and when it is received? 
+Temporal Classification: future event (Confidence: 0.583)
+
+Speaker: Radhakrishna Garapati 
+Text: We have already accounted for the retention money, because the work is done, and the money is due. It is only held up for a future event that is handing over and taking over etcetera has to take place. It is more clear, in the Rs. 82 crore of debtors rather Rs. 20.6 crores is retention money. And this money will come to us, it is already approved to us, it will come after the future event takes place that is handing over or final commissioning depending on the individual conditions of each contract. 
+Temporal Classification: future event (Confidence: 0.82)
+
+Speaker: Ashok Shah 
+Text: So as stated by Mr. Radhakrishna, we expect to have Rs. 1,300 crores order book by end of FY19, so how many orders we will be bidding or planning under stage? What is the requirement of working capital have been increased or we are bidding with the same project because our order execution is only 25% in the 19? 
+Temporal Classification: future event (Confidence: 0.473)
+
+Speaker: Brigadier G. S. Narayana 
+Text: I think if we understand you correctly,we have already got almost a confirmed order book of Rs. 826 crores in our hand. We are also bidding for another Rs. 70 crores plus another Rs. 1,300 crores which are under submission. So we expect, as Mr. Radhakrishna has already explained in his opening remarks, that in the Rs. 570 crores we expect more than what was the confirmed ones and others we expect around 40% to 50% of success rate for us as per our due diligence and experience. So the bare minimum we are expecting around Rs. 1,300 crores of order book on hand probably by the third quarter of financial year 2018-19. 
+Temporal Classification: present event (Confidence: 0.456)
+
+Speaker: Ashok Shah 
+Text: So my question is aboutRs. 1,300 croreswe would be requiring additional working capital? 
+Temporal Classification: present event (Confidence: 0.575)
+
+Speaker: Brigadier G. S. Narayana 
+Text: I will come to that point. That also has been explained. Presently our credit limit is around Rs. 120 crores of non-fund base limits and Rs. 15 crores of fund based limit, both are with Vijaya Bank. We have asked for an enhancement of credit limit to Rs. 250 crores of non-fund base limits and Rs. 50 crores of fund base limits. And out of Rs. 250 crores also we have asked for Rs. 50 crores of LC limits which will be exchangeable. So the quantum jump of around more than double is expected and the proposal is in the final stages of approval by the bank. We are also in touch with other banks for further extension of the credit limit. So we do not find any issue as far as the credit availability even in the stressed financial market as of now. 
+Temporal Classification: present event (Confidence: 0.544)
+
+Speaker: Ashok Shah 
+Text: On the Rs. 120 crores what is the interest rate we are paying? 
+Temporal Classification: present event (Confidence: 0.729)
+
+Speaker: Brigadier G. S. Narayana 
+Text: Rs. 120 crores of non-funds is mainly used for the bank guarantees and LCs. 
+Temporal Classification: present event (Confidence: 0.599)
+
+Speaker: Ashok Shah 
+Text: what is the the interest rates which we are paying? 
+Temporal Classification: present event (Confidence: 0.644)
+
+Speaker: Brigadier G. S. Narayana 
+Text: Rs. 120 crores we do not have it is mainly used for issue of BGs. commission is around 1.5% as far as we are concerned. And for the fund based limit, which is used as working capital, the interest rate is around 12.65%. 
+Temporal Classification: present event (Confidence: 0.542)
+
+Speaker: Ashok Shah 
+Text: When the company is going to hold AGM? Is it annually/every quarter 
+Temporal Classification: future event (Confidence: 0.735)
+
+Speaker: Brigadier G. S. Narayana 
+Text: AGM I think it will be in September and the venue will be in Visakhapatnam which is the registered office of the company. 
+Temporal Classification: future event (Confidence: 0.675)
+
+Speaker: Ashok Shah 
+Text: Why so much time of 5 months is required to prepare annual report? AGM can be held at the earliest stage also? 
+Temporal Classification: present event (Confidence: 0.605)
+
+Speaker: Brigadier G. S. Narayana 
+Text: Yeah, we did note your point, we will look at it. Your point is noted about the AGM. It depends on the availability of the Directors. We will look at your point. 
+Temporal Classification: present event (Confidence: 0.5)
+
+Speaker: Ashok Shah 
+Text: Please hold the AGM earlier and give the results in every quarter if possible because it would be very good gesture form the management. 
+Temporal Classification: present event (Confidence: 0.64)
+
+Speaker: Brigadier G. S. Narayana 
+Text: Yeah, we will try and pre-pone the AGM depending on the availability of the Directors and then accordingly we will take it up. 
+Temporal Classification: future event (Confidence: 0.748)
+
+Speaker: Moderator 
+Text: Thank you. The next question is from the line of Darshit Shah from Nirvana Capital. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.489)
+
+Speaker: Darshit Shah 
+Text: Just one question related to employee expense. So if you look at this for second half, now the employee expense is almost Rs. 5 crores versus Rs. 10 crores what we paid in first half. So can you explain why that was? 
+Temporal Classification: present event (Confidence: 0.541)
+
+Speaker: Brigadier G. S.Narayana 
+Text: I think the employee cost in the first half was slightly on a higher side because that time we have started the operations of earlier vertical for the technology transfer and other consultancy services which has been an employee cost has been incurred in the first half. That is one time or it is not recurring in the second half. That is why the second half is showing a lower figure. 
+Temporal Classification: past event (Confidence: 0.823)
+
+Speaker: Darshit Shah 
+Text: Can you quantify that amount roughly? 
+Temporal Classification: past event (Confidence: 0.39)
+
+Speaker: Brigadier G. S. Narayana 
+Text: There was expenditure towards starting of earlier vertical where we took some consultancy services and Director’s remuneration was also coming in the first half. Director’s remuneration and expenses for starting of UAE vertical for hiring certain technocrats have been incurred in the first half of the year. 
+Temporal Classification: past event (Confidence: 0.603)
+
+Speaker: Darshit Shah 
+Text: How many employees do we have on roll currently? 
+Temporal Classification: present event (Confidence: 0.656)
+
+Speaker: Brigadier G. S. Narayana 
+Text: 300. 
+Temporal Classification: past event (Confidence: 0.713)
+
+Speaker: Moderator 
+Text: Thank you. The next question is from the line of Vivek Gautam from GS Investments. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.525)
+
+Speaker: Vivek Gautam 
+Text: My question is in case of government plants we are facing lot of difficulties in form of delayed payment and lot of delay in tendering finalization. So why are we not targeting the private sector also for our tenders and other orders, sir? 
+Temporal Classification: present event (Confidence: 0.751)
+
+Speaker: Radhakrishna Garapati 
+Text: The problem what we are facing is with the State Government. There is no problem with the Central Government. We have been working with private companies in the past and you can see that the receivables of Rs 11.32 Crores are from them and not from central Government. 
+Temporal Classification: past event (Confidence: 0.859)
+
+Speaker: Vivek Gautam 
+Text: But both private companies were in your marine infrastructure only because you have done the work I believe for Essar Port, and Vadinar Port and other private sector ports also? 
+Temporal Classification: present event (Confidence: 0.805)
+
+Speaker: Radhakrishna Garapati 
+Text: We have done for CuddalorePort Company Private Limited which is holding an amount of around Rs. 6.25 crores. We have done for Visakhapatnam Port Trust ss a sub contract for SEW and around Rs. 2.5 crores is held up with them. Rs. 1 crores to Rs. 1.5 crores which has to come from IVRCL. So all these are private companies only 
+Temporal Classification: past event (Confidence: 0.466)
+
+Speaker: Vivek Gautam 
+Text: Private companies these are all mostly bankrupt companies now SEW, IVRCL but I meant to say about that private sector ports which are coming up because we have specialization in marine and in private? 
+Temporal Classification: future event (Confidence: 0.445)
+
+Speaker: Radhakrishna Garapati 
+Text: We have opted for another port, Honnavar Port in Karnataka which has come up. We are also trying to quote with Adani. We did a job with them and they are happy with us. Our main focus is mostly on Central Government jobs and defense. 
+Temporal Classification: past event (Confidence: 0.541)
+
+Speaker: Vivek Gautam 
+Text: Okay but there the receivable issues crop up in the government sector? 
+Temporal Classification: present event (Confidence: 0.834)
+
+Speaker: Radhakrishna Garapati 
+Text: Government there is no receivable issues, there is no issue with the Central Government. Only the retention money it will take a little bit of time, all other payments especially Central Government we get it within 15 to 20 days of submission of our bill. 
+Temporal Classification: present event (Confidence: 0.534)
+
+Speaker: Vivek Gautam 
+Text: And what about competition intensity we are facing USP of our company which is helping us and the opportunity size for our sector? 
+Temporal Classification: present event (Confidence: 0.786)
+
+Speaker: Radhakrishna Garapati 
+Text: Competitions are now actually strict. There is a little bit of competition on the marine side, but on the road sector the competition is less. The project releases were very high and there will not be any further contractors to quote probably in next one year. There is so much of work or very little work. 
+Temporal Classification: present event (Confidence: 0.513)
+
+Speaker: Vivek Gautam 
+Text: So are we going into road sector beside marine? 
+Temporal Classification: future event (Confidence: 0.557)
+
+Speaker: Radhakrishna Garapati 
+Text: At present we are going into only the bridges and if at all there is a concrete work like EPC contract, we are trying to go into that because we are expert in concrete work. 
+Temporal Classification: present event (Confidence: 0.862)
+
+Speaker: Vivek Gautam 
+Text: So how is the opportunity size for such type of projects for us in NHAI? 
+Temporal Classification: future event (Confidence: 0.446)
+
+Speaker: Radhakrishna Garapati 
+Text: NHAI the good opportunity is there, sir. 
+Temporal Classification: present event (Confidence: 0.83)
+
+Speaker: Vivek Gautam 
+Text: Good opportunity? 
+Temporal Classification: future event (Confidence: 0.497)
+
+Speaker: Radhakrishna Garapati 
+Text: Some of the bank guarantees we have with us. With the bank guarantees the opportunities is endless. 
+Temporal Classification: present event (Confidence: 0.545)
+
+Speaker: Vivek Gautam 
+Text: So we are trying to contact other banks also for enhancing the bank guarantee and other things? 
+Temporal Classification: present event (Confidence: 0.556)
+
+Speaker: Radhakrishna Garapati 
+Text: We have gone with the Union Bank of India, we have given our proposal maybe they will also sanction about Rs. 150 crores shortly. 
+Temporal Classification: present event (Confidence: 0.608)
+
+Speaker: Vivek Gautam 
+Text: But most of the PSU banks are facing difficulty right now in disposing credit. So why not we approach some private sector bank also 
+Temporal Classification: present event (Confidence: 0.73)
+
+Speaker: Radhakrishna Garapati 
+Text: We are approaching, we are approaching the private banks also, NBFC banks also we are approaching but when we are doing a Central Government jobs all the bank guarantees are to be given by a scheduled bank only. They will not accept any private bank, bank guarantees. 
+Temporal Classification: future event (Confidence: 0.384)
+
+Speaker: Vivek Gautam 
+Text: That is strange because now the business is moving from public sector bank to private sector banks now in India especially in the corporate side also? 
+Temporal Classification: present event (Confidence: 0.567)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah, it might take some time but we are working on it. We are working on getting with private banks at least the cash credit limit we are trying to work with the private banks wherein we are getting an interest rate at a lesser rate. 
+Temporal Classification: future event (Confidence: 0.689)
+
+Speaker: VivekGautam 
+Text: Okay, opportunity size remains quite good for our sector sir? 
+Temporal Classification: present event (Confidence: 0.463)
+
+Speaker: RadhakrishnaGarapati 
+Text: Yeah, it is good. 
+Temporal Classification: present event (Confidence: 0.605)
+
+Speaker: Moderator 
+Text: Thank you. The next question is from the line of R. Ranjan Kumar, an individual investor. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.511)
+
+Speaker: R. Ranjan Kumar 
+Text: I had few queries which were cleared earlier. So I do not have any queries right now. 
+Temporal Classification: past event (Confidence: 0.863)
+
+Speaker: Moderator 
+Text: Thank you. The next question is from the line of Deepak Agrawal from Impetus Advisors. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.536)
+
+Speaker: Deepak Agrawal 
+Text: What is the breakup of Rs.117 crores revenue, what all projects contributed to this? Rs.117 crores revenue in the second half, what all projects have contributed to that? Can you give the breakup of Rs. 117 crores revenue? 
+Temporal Classification: past event (Confidence: 0.392)
+
+Speaker: Radhakrishna Garapati 
+Text: In the second half we had some construction of Jetty at Visakhapatnam, Cochin Port Trust and then Purvanchal, then from Pondicherry. JNPT is also there, there we got around Rs.13 crores. 
+Temporal Classification: past event (Confidence: 0.729)
+
+Speaker: Deepak Agrawal 
+Text: How much is from Purvanchal? 
+Temporal Classification: present event (Confidence: 0.49)
+
+Speaker: Radhakrishna Garapati 
+Text: I will just tell you. Contribution of revenues for Cochin Port Trust is around 42%, Purvanchal’s around 28%, DGNP Defense project is around 19%, others are around 11%. 
+Temporal Classification: present event (Confidence: 0.636)
+
+Speaker: Deepak Agrawal 
+Text: Okay so currently we have some Rs. 250 crores order on executed projects and in addition we have Rs. 800 odd crores of projects in hand? 
+Temporal Classification: present event (Confidence: 0.877)
+
+Speaker: Radhakrishna Garapati 
+Text: It is not in addition. Rs. 826 crores is inclusive of this Rs. 250 crores. 
+Temporal Classification: present event (Confidence: 0.564)
+
+Speaker: Deepak Agrawal 
+Text: What is the expected margin on these orders that we have in hand? 
+Temporal Classification: present event (Confidence: 0.622)
+
+Speaker: Radhakrishna Garapati 
+Text: PAT would be anything around 7% to 10%. 
+Temporal Classification: present event (Confidence: 0.416)
+
+Speaker: Deepak Agrawal 
+Text: And what do we expect on the CAPEX front this year? 
+Temporal Classification: future event (Confidence: 0.458)
+
+Speaker: Radhakrishna Garapati 
+Text: CAPEX we might increase around another Rs. 50 crores to Rs. 60 crores. 
+Temporal Classification: present event (Confidence: 0.464)
+
+Speaker: Deepak Agrawal 
+Text: Rs. 50 croresto Rs. 60 crores CAPEX? 
+Temporal Classification: present event (Confidence: 0.399)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah. 
+Temporal Classification: past event (Confidence: 0.47)
+
+Speaker: Deepak Agrawal 
+Text: We have a growth level of around Rs. 14 crores now? 
+Temporal Classification: present event (Confidence: 0.857)
+
+Speaker: Radhakrishna Garapati 
+Text: We are entering into the bridge segment which would be around Rs. 1,000 crores this year. As this is a new segment, we have to purchase equipment and machinery. So CAPEX might go up to Rs. 50 to Rs. 60 crores this year. 
+Temporal Classification: present event (Confidence: 0.417)
+
+Speaker: Deepak Agrawal 
+Text: Okay and last March 17 we had advance from customers of around Rs. 45 crores. Now we have only Rs. 15 crores so what is in there? 
+Temporal Classification: past event (Confidence: 0.919)
+
+Speaker: Radhakrishna Garapati 
+Text: Advances are deposited with the department and as the work progress, Department will deduct the advances. Hence advances have come down as we keep coming close to the completion of the project. 
+Temporal Classification: present event (Confidence: 0.369)
+
+Speaker: Deepak Agrawal 
+Text: Yeah but the total revenue is rising our business is rising so why should advances come down, for the new projects also are we not getting advances? 
+Temporal Classification: present event (Confidence: 0.488)
+
+Speaker: RadhakrishnaGarapati 
+Text: New projects, we are still to take the advance. We are still to take because all the advances are on interest payment. The coming season is monsoon period so we should not lose any interest on this monsoon period that is why we are holding. Once this monsoon ends, wherever the requirement is there then we take advance from them. 
+Temporal Classification: future event (Confidence: 0.651)
+
+Speaker: Deepak Agrawal 
+Text: Are we paying interest on these advances? 
+Temporal Classification: present event (Confidence: 0.508)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah we have to pay interest on the advance. 
+Temporal Classification: present event (Confidence: 0.374)
+
+Speaker: Moderator 
+Text: Thank you. The next question is from the line of SubramaniamYadav from Subhkam Ventures. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.574)
+
+Speaker: SubramaniamYadav 
+Text: Sir just had few clarifications. The order book of Rs. 820 crores we would be executing Rs. 300 crores this year FY19, so we are left with Rs. 500 odd crores. And you are expecting another Rs. 800 crore of inflow this year so that we could reach around Rs. 1,300 crores of order book at the end of the year, right? 
+Temporal Classification: present event (Confidence: 0.423)
+
+Speaker: Radhakrishna Garapati 
+Text: Another Rs. 500 crores. 
+Temporal Classification: present event (Confidence: 0.379)
+
+Speaker: SubramaniamYadav 
+Text: Another Rs. 500 crores so you would be ending the year with Rs. 1,000 crores of order book, right? 
+Temporal Classification: past event (Confidence: 0.473)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah. 
+Temporal Classification: past event (Confidence: 0.47)
+
+Speaker: SubramaniamYadav 
+Text: And sir can you give me the breakup of this Rs. 82 crore receivables, the Rs. 26 crore is from Cochin, right? 
+Temporal Classification: present event (Confidence: 0.587)
+
+Speaker: Radhakrishna Garapati 
+Text: I will give you the breakup. Indian Oil Corporation Cochin Port is around Rs. 15 crores, CuddalorePort Rs. 6 crores and the major receivable is from PurvanchalVidyut Nigam Limited which has already been clarified. So the dues from Purvanchal is around Rs. 48 crores. So Rs. 48 crores from Purvanchal, Rs. 15 croresfrom Cochin Port Trust, Rs. 6 croresfrom Cuddalore and other ports together is around Rs. 25 crores. 
+Temporal Classification: present event (Confidence: 0.613)
+
+Speaker: SubramaniamYadav 
+Text: And sir, the CAPEX earlier you said it was around Rs. 40 odd crores, now you are saying Rs. 50 crores to Rs. 60 odd crores, so what is the exact amount? 
+Temporal Classification: past event (Confidence: 0.66)
+
+Speaker: Radhakrishna Garapati 
+Text: See all the projects what we are taking up is on EPC. The equipment depends on our design whatever it comes. Suppose the span is taking as 45 meters span then that will reduce the cost of the equipment which is there. If I take the 60 meters span the cost of the equipment goes up. So these are all in the design stage so we will not be able to give you the exact figure. We will also go for an asset building by striking a balance between the rich profile of owning versus hiring. 
+Temporal Classification: present event (Confidence: 0.465)
+
+Speaker: Moderator 
+Text: Thank you. The next question is from the line of Nikhil Shah Cnsultants. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.478)
+
+Speaker: Nikhil Shah 
+Text: Just couple of clarifications. So in terms of the order book position, just to clarify we said that it is Rs. 826 crores which includes the Rs. 500 crores with the Chinese partner and if we execute Rs. 300 crores in the year then it comes down to Rs. 500 crores. Which means that at the end of FY19 in terms of unexecuted order book it will be Rs. 1,000 crores not Rs. 1,300 crores, right? 
+Temporal Classification: past event (Confidence: 0.421)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah it will be around Rs. 1,000 crores. 
+Temporal Classification: present event (Confidence: 0.447)
+
+Speaker: Nikhil Shah 
+Text: Okay and in Rs. 1,000 crores by the end of FY19 what would be the composition of bridges sector sir? 
+Temporal Classification: future event (Confidence: 0.448)
+
+Speaker: Radhakrishna Garapati 
+Text: Bridges sector would be around roughly Rs. 600 crores to Rs. 700 crores. 
+Temporal Classification: present event (Confidence: 0.786)
+
+Speaker: Nikhil Shah 
+Text: Rs. 600 crores to Rs. 700 crores and that is why because all your equipment is more in the marine side for bridges because it is constituting 60% to 70% of your unexecuted order book you will need CAPEX. And this CAPEX will be spread out right so in terms of the depreciation impact it will probably be? 
+Temporal Classification: present event (Confidence: 0.469)
+
+Speaker: Radhakrishna Garapati 
+Text: It will be spread out in next five to ten years. 
+Temporal Classification: future event (Confidence: 0.913)
+
+Speaker: Nikhil Shah 
+Text: Yeah but I am saying the depreciation impact and the interest of it will start kind of flowing in as and when your execution increases, right? So as a result of this, the impact of interest and depreciation offset by the growth in the business, so what kind of margin expansion are you looking at sir in FY19 PAT level? 
+Temporal Classification: future event (Confidence: 0.885)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah, PAT level we are saying right from the beginning we will maintain between 7% to 9%. See not only that you have to consider ongoing projects of around Rs. 250 crores with us. Most of ongoing projects most of them will be completed. So in the completion we get little bit of more income. Being government companies they will pay more amounts at the end. So you strike a balance between this and that. 
+Temporal Classification: future event (Confidence: 0.449)
+
+Speaker: Nikhil Shah 
+Text: Fair enough. Sir, one last question on an average what would be the split of your order book between Central Government and State Government? 
+Temporal Classification: present event (Confidence: 0.521)
+
+Speaker: Radhakrishna Garapati 
+Text: We are thinking of not taking any more State Government jobs. At present, we are trying to taking up only Gujarat Maritime Board that is the only one State Government job what we will be having it and in Visakhapatnam we have one small work which is about Rs. 20 crores job. We have taken up because it is an iconic project and we want to show our position in the State. So the ratio must be around 75% to 25%; 75% Central Government 25% State Government. 
+Temporal Classification: present event (Confidence: 0.618)
+
+Speaker: Nikhil Shah 
+Text: Correct. So right now Central Government 75% expected to go up to 100% by end of FY19 when you have an order book of Rs. 1,000 crores unexecuted, right? 
+Temporal Classification: future event (Confidence: 0.613)
+
+Speaker: Radhakrishna Garapati 
+Text: No, it will remain around 80:20 ratio. 
+Temporal Classification: present event (Confidence: 0.49)
+
+Speaker: Nikhil Shah 
+Text: 80:20 ratio will be Central Government, State Government and about 60%, 70% will be bridge projects. 
+Temporal Classification: future event (Confidence: 0.438)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah. 
+Temporal Classification: past event (Confidence: 0.47)
+
+Speaker: Moderator 
+Text: Thank you. The next question is a follow up from the line of Hardik Jain from Milestone Financial Advisors. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.494)
+
+Speaker: Hardik Jain 
+Text: In marine projects we used to get advances from the government but is that the same case for the road projects as well where we get some advances from the Central Government? 
+Temporal Classification: past event (Confidence: 0.49)
+
+Speaker: Radhakrishna Garapati 
+Text: Yes sir, same. But for the road projects the interest rate for NHAI project is lesser. 
+Temporal Classification: present event (Confidence: 0.712)
+
+Speaker: Hardik Jain 
+Text: How much have we charged in marine and what is the interest rate over here in NHAI? 
+Temporal Classification: present event (Confidence: 0.688)
+
+Speaker: Radhakrishna Garapati 
+Text: In port sector, it is PLR (Prime Lending Rate) plus 4%. Whereas in NHAI Contracts/Agreements it is bank lending rate which is now probably around 6.5%. 
+Temporal Classification: present event (Confidence: 0.654)
+
+Speaker: Hardik Jain 
+Text: It is quite less, okay. And sir, in terms of margin profile is marine projects have a better margin than bridges or they are almost the same? 
+Temporal Classification: present event (Confidence: 0.66)
+
+Speaker: Radhakrishna Garapati 
+Text: The last twenty years I have been in marine projects and we have developed our own machinery for our works. If we have to purchase the machinery from outside, it costs around Rs.100 but then if we are manufacturing the same machinery on our own, it is costing around 60% to 70% so there is a saving of around 30% to 40% in the cost of the machinery. That is the reason you find a little bit more margin on the marine side. 
+Temporal Classification: past event (Confidence: 0.912)
+
+Speaker: Hardik Jain 
+Text: Right, so that means to say as our order book tilts towards bridges and roads where we are not manufacturing our own equipments and we are purchasing from outside, the margins in the bridges segment will be lower than what we have witnessed earlier? 
+Temporal Classification: past event (Confidence: 0.417)
+
+Speaker: Radhakrishna Garapati 
+Text: Whatever bridge work that we taking up is on River Ganga, is almost again a marine type of work only. 
+Temporal Classification: present event (Confidence: 0.704)
+
+Speaker: Hardik Jain 
+Text: Okay so in that project the Ganga River project the bridge that we are making we will be using some of our own equipments? 
+Temporal Classification: present event (Confidence: 0.66)
+
+Speaker: Radhakrishna Garapati 
+Text: Most of the foundation work, we will be using the equipment what we have. And other works we will have to either buy it or take it on hire. 
+Temporal Classification: present event (Confidence: 0.459)
+
+Speaker: Hardik Jain 
+Text: Okay because that is what I was wondering because when you are saying that; 7% to 9% PAT margins and what we have seen because the tilt is towards bridges, will we be able to maintain this 7% to 9% PAT margins? 
+Temporal Classification: present event (Confidence: 0.391)
+
+Speaker: Radhakrishna Garapati 
+Text: That is the reason why we are not entering into the road sector, though we have got lot of opportunities. Whenever we take up the work, the package is around 60 to 80 kilometers. Managing one kilometer is far easier than a road package of 60to 80 Kilometers. We have very good control in bridges due to the located projects and we have control over this but when you go in 60 kilometers controlling will be difficult. That is the reason we get a PAT value on the road sector a little bit less and on the bridges if you organize well you get a higher margins because the number of components in a big project is only around 6 to 7 like concrete, reinforcement, bearings, tiling etcetera but whereas when you go into the roads, you have got so many items. There is also a lot of problem with land acquisition, and theft also is another issue. So whereas in bridges, we concentrate at one location security and all will be easier. That is the reason we are trying to concentrate only on major bridges. And River Ganga bridge what we are doing is one of the prestigious projects of Prime Minister of India. He has chosen around 13 bridges on River Ganga, and out of which five bridges have been completed, three bridges are on tendering stage and another five bridges they are going to ask for bids. So this is one of the prestigious projects and we will not have any tax flow issues or anything on this project. 
+Temporal Classification: present event (Confidence: 0.522)
+
+Speaker: Hardik Jain 
+Text: Okay and we were considering some of the gas pipeline link projects are we considering any of such projects, are we bidding for those projects? 
+Temporal Classification: present event (Confidence: 0.601)
+
+Speaker: Radhakrishna Garapati 
+Text: We had bid for two projects but we have not been successful. We are still trying. 
+Temporal Classification: past event (Confidence: 0.782)
+
+Speaker: Moderator 
+Text: Thank you. The next question is a follow up from the line of Rohit Ramesh from Fund Managers. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.51)
+
+Speaker: Rohit Ramesh 
+Text: Yes, I just wanted to know who are your main competitors in this bridges segment. 
+Temporal Classification: present event (Confidence: 0.578)
+
+Speaker: Radhakrishna Garapati 
+Text: In the Bridges segment I think, there are around eight to nine parties which are bidding. They are the only competitors for bridges and we are waiting for them to get exhausted. Once they are full, we will enter and then get into the good job. So we do not want to waste our bank guarantees and all in a competitive tenders rather than wait and then if we can get a good job like how we got the Farakka job. 
+Temporal Classification: past event (Confidence: 0.44)
+
+Speaker: Rohit Ramesh 
+Text: Are there today like Titagarh wagon that give you competition in bridges segment? 
+Temporal Classification: present event (Confidence: 0.451)
+
+Speaker: Radhakrishna Garapati 
+Text: Your voice is not clear. 
+Temporal Classification: present event (Confidence: 0.442)
+
+Speaker: Moderator 
+Text: Thank you. The next question is from the line of Jitesh Burma, an individual investor. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.545)
+
+Speaker: Jitesh Burma 
+Text: Sir, I have a question on our H2 result. So if we compare this against H1 we have kind of a flattish growth, if you could just explain the reasons and how do we see this half year the H1 for FY19? 
+Temporal Classification: present event (Confidence: 0.571)
+
+Speaker: Radhakrishna Garapati 
+Text: See in H1 we got the JNPT work. We just started the JNPT work but as we started proceeding with the works and we have done around Rs. 20 to Rs. 25crores job. But when we executed the project, when we have gone into one of the item they have. They have given only Rs. 5 crores for that work whereas that work cost around Rs. 140 crores. So the department is in a fix whether they want to get the work executed through us or call for a separate tender. In my last two three visits, finally I think they are going for a separate tender and unless they execute that work, we will not be able to execute our job that is the reason there is a delay of about six months. Maybe we should be able to cover up only in the second half of the financial year’19. That was the main reason why the turnover has been reduced in the second half of last year. 
+Temporal Classification: past event (Confidence: 0.529)
+
+Speaker: Jitesh Burma 
+Text: Okay sir and how do you see that, because we are already in June, the second week of June so how do we see this half year the first half year of FY19 if you could throw some color on how it is going right now? 
+Temporal Classification: present event (Confidence: 0.698)
+
+Speaker: Radhakrishna Garapati 
+Text: Half year ’19 may not be that encouraging because whatever projects we have tendered are on engineering procurement and construction. So the three works are on design now. So we have to take the design, submit the design, get the approvals of the design and then start the execution. So it might take around three to four months for us to get all these things done. So maybe first half may be a little bit dull but by the year end, we will be able to cope up and get a better result. 
+Temporal Classification: future event (Confidence: 0.401)
+
+Speaker: Jitesh Burma 
+Text: Okay and you just mentioned that we are also exploring an option for hiring equipments and we earlier said and we have repeated that one of our strength and the reason we enjoy better margin is because we use our own equipment. So how do you see this mix changing and how this will impact our bottom line? 
+Temporal Classification: present event (Confidence: 0.68)
+
+Speaker: Radhakrishna Garapati 
+Text: See what happens is, as I just explained you there is a foundation work and the foundation work has got around 700 tiles. For executing this work in one season we will be requiring about 4 machines. The cost of these machines would be around Rs. 5.5 crores to Rs. 6 crores. So if I have to purchase all those machines and after the work s are over I will have to roam and get only those works. So we may get into problems. We get ourselves whether to purchase the machine or to take it on hire which is more economical for us. If they are available on the market and are available on hire, we take it up finish the work in one season and then come out of that we get our margins. 
+Temporal Classification: present event (Confidence: 0.577)
+
+Speaker: Jitesh Burma 
+Text: Okay can we still enjoy the similar margins that we at present enjoy in the existing project? 
+Temporal Classification: present event (Confidence: 0.848)
+
+Speaker: Radhakrishna Garapati 
+Text: Whatever I have promised you we will definitely maintain it, no problem. 
+Temporal Classification: present event (Confidence: 0.465)
+
+Speaker: Moderator 
+Text: Thank you. Ladies and gentlemen, we take the last question from the line of SubramaniamYadav from Subhkam Ventures. Please go ahead. 
+Temporal Classification: present event (Confidence: 0.536)
+
+Speaker: SubramaniamYadav 
+Text: Sir, any indication when will be get the Purvanchal receivables of around Rs. 48 crores any indication from their side? 
+Temporal Classification: future event (Confidence: 0.561)
+
+Speaker: Radhakrishna Garapati 
+Text: It might be around four-and-a-half to six months as explained to realize the complete amount. 
+Temporal Classification: past event (Confidence: 0.439)
+
+Speaker: SubramaniamYadav 
+Text: Okay at least are they realizing part payment or something like that or? 
+Temporal Classification: present event (Confidence: 0.499)
+
+Speaker: Radhakrishna Garapati 
+Text: Yeah, they will be realizing part payment. 
+Temporal Classification: future event (Confidence: 0.663)
+
+Speaker: SubramaniamYadav 
+Text: Okay have we recently got anything from them? 
+Temporal Classification: past event (Confidence: 0.614)
+
+Speaker: Radhakrishna Garapati 
+Text: No, we did not get anything. 
+Temporal Classification: past event (Confidence: 0.74)
+
+Speaker: SubramaniamYadav 
+Text: Okay and what is the reason they are mentioning sir for this? 
+Temporal Classification: present event (Confidence: 0.508)
+
+Speaker: Radhakrishna Garapati 
+Text: It is not the question of reason. See this is a rural electrification job, what is happening is we have to finish all the jobs then commissioned, give the supply and unless we give the supply and get a certificate from the local Panchayat President, they will not release the payment. And this work is in UP, that is the reason you have to work in difficult condition. So it is not a small thing to get into. That is the reason it is taking time. 
+Temporal Classification: present event (Confidence: 0.735)
+
+Speaker: SubramaniamYadav 
+Text: Okay. So end of the year how much can we be able to receive from this Rs. 48 crores? 
+Temporal Classification: future event (Confidence: 0.423)
+
+Speaker: Radhakrishna Garapati 
+Text: End of the year I think we should be able to completely get the amount. 
+Temporal Classification: future event (Confidence: 0.423)
+
+Speaker: Moderator 
+Text: Thank you. I now hand the conference over to the management for closing comments. Thanks and over to you, sir. 
+Temporal Classification: present event (Confidence: 0.511)
+
+Speaker: Radhakrishna Garapati 
+Text: Thank you. Before we close the session let me once again assure you that we are here to take the company to the next level and create significant value for all stakeholders by delivering exceptional quality projects resulting in superior shareholder returns in the medium term perspective. We propose to move forward in a steady manner. On behalf of RKEC, we would like to thank you all for your participation in the conference call amidst your busy day. Thank you and have a wonderful time ahead. 
+Temporal Classification: present event (Confidence: 0.468)
+
+Speaker: Moderator 
+Text: Thank you. On behalf of RKEC Projects Limited, that concludes this conference. Thank you for joining us and you may now disconnect your lines. 
+Temporal Classification: present event (Confidence: 0.476)
+

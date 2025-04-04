@@ -1,0 +1,65 @@
+===== ANALYST & INVESTOR SENTIMENT ANALYSIS =====
+
+OVERALL STATISTICS
+Total Comments: 1396
+Positive: 402 (28.8%)
+Negative: 138 (9.9%)
+Neutral: 856 (61.3%)
+
+SENTIMENT BY EARNINGS CALL
+concall_id  positive  negative  neutral  total  pos_pct  neg_pct
+ concall_1        21        14       38     73     28.8     19.2
+ concall_2        38         6       82    126     30.2      4.8
+ concall_3        35        15       62    112     31.2     13.4
+ concall_5        44        16      107    167     26.3      9.6
+ concall_6        33        14       85    132     25.0     10.6
+ concall_7        32        21       92    145     22.1     14.5
+ concall_8        41         9       65    115     35.7      7.8
+ concall_9        23        13       25     61     37.7     21.3
+concall_10        40        14       85    139     28.8     10.1
+concall_12        37         3       89    129     28.7      2.3
+concall_14        21         3       76    100     21.0      3.0
+concall_15        37        10       50     97     38.1     10.3
+
+TOP POSITIVE COMMENTS
+1. Concall: concall_1, Speaker: Gaurav Kumaar Dua
+   Text: Temporarily, we can say, yes. But in long term, I think we will be able to gain back the market share. It's because of 2 factors. There is poor footfalls, demand is also subdued and the raw material p...
+   Confidence: 1.0
+
+2. Concall: concall_1, Speaker: Gaurav Kumaar Dua
+   Text: I think company is taking a lot of steps to improve the margins. On the back-end front, we are working very closely with the manufacturing how to really improve our productivity and add on to our marg...
+   Confidence: 1.0
+
+3. Concall: concall_1, Speaker: Gaurav Kumaar Dua
+   Text: Sparx, I think we are able to maintain the momentum in Sparx compared to the other open footwear. So I think Sparx should definitely be better off compared to other 2 brands, that is Flite and Bahamas...
+   Confidence: 1.0
+
+4. Concall: concall_1, Speaker: Gaurav Kumaar Dua
+   Text: Currently, like in October or whatever, you can see the start, we have not seen a great start. So we are hoping that because of this November-December having a huge number of weddings, so demand shoul...
+   Confidence: 1.0
+
+5. Concall: concall_1, Speaker: Sameer Gupta
+   Text: I noticed that there is an ASP increase of 6%. I mean, I heard that you mentioned that you've taken a revision of price in January, but even from last quarter onwards, this is an increase of around 3%...
+   Confidence: 1.0
+
+TOP NEGATIVE COMMENTS
+1. Concall: concall_1, Speaker: Gaurav Kumaar Dua
+   Text: Can you repeat it please? Ankit Kedia Can you just let call out the revenue growth or the volume decline in North versus ex. North region?
+   Confidence: 0.999
+
+2. Concall: concall_1, Speaker: Aditya Khetan
+   Text: Yes. Sir, my first question is on to the volumes part. Sir, in H1, we had seen that the volumes have declined by almost around 5% as compared to the last year of H1. And sir, you have also stated that...
+   Confidence: 0.999
+
+3. Concall: concall_5, Speaker: Onkar Ghugardare
+   Text: Okay. As far as the ROE and ROC is concerned, what's your plan on next 2 - 3 years since it has come down dramatically, again, from FY '21 to FY '23?
+   Confidence: 0.999
+
+4. Concall: concall_5, Speaker: Ankit Kedia
+   Text: 11% realization drop Y-o-Y and quarter-on-quarter. How much is due to price cut and how much is due to mix change on new -- you introduced INR105 chappals also in the market last quarter. So can you g...
+   Confidence: 0.999
+
+5. Concall: concall_5, Speaker: Ankit Kedia
+   Text: Right. And is it fair to assume the margins in EBOs would be just near double digit and lower than the company average?
+   Confidence: 0.999
+
